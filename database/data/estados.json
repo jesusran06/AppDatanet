@@ -1,0 +1,98 @@
+[
+    {
+        "ID": "1",
+        "ESTADO": "DISTRITO CAPITAL"
+    },
+    {
+        "ID": "2",
+        "ESTADO": "AMAZONAS"
+    },
+    {
+        "ID": "3",
+        "ESTADO": "ANZOATEGUI"
+    },
+    {
+        "ID": "4",
+        "ESTADO": "APURE"
+    },
+    {
+        "ID": "5",
+        "ESTADO": "ARAGUA"
+    },
+    {
+        "ID": "6",
+        "ESTADO": "BARINAS"
+    },
+    {
+        "ID": "7",
+        "ESTADO": "BOLIVAR"
+    },
+    {
+        "ID": "8",
+        "ESTADO": "CARABOBO"
+    },
+    {
+        "ID": "9",
+        "ESTADO": "COJEDES"
+    },
+    {
+        "ID": "10",
+        "ESTADO": "DELTA AMACURO"
+    },
+    {
+        "ID": "11",
+        "ESTADO": "FALCON"
+    },
+    {
+        "ID": "12",
+        "ESTADO": "GUARICO"
+    },
+    {
+        "ID": "13",
+        "ESTADO": "LARA"
+    },
+    {
+        "ID": "14",
+        "ESTADO": "MERIDA"
+    },
+    {
+        "ID": "15",
+        "ESTADO": "MIRANDA"
+    },
+    {
+        "ID": "16",
+        "ESTADO": "MONAGAS"
+    },
+    {
+        "ID": "17",
+        "ESTADO": "NUEVA ESPARTA"
+    },
+    {
+        "ID": "18",
+        "ESTADO": "PORTUGUESA"
+    },
+    {
+        "ID": "19",
+        "ESTADO": "SUCRE"
+    },
+    {
+        "ID": "20",
+        "ESTADO": "TACHIRA"
+    },
+    {
+        "ID": "21",
+        "ESTADO": "TRUJILLO"
+    },
+    {
+        "ID": "22",
+        "ESTADO": "YARACUY"
+    },
+    {
+        "ID": "23",
+        "ESTADO": "ZULIA"
+    },
+    {
+        "ID": "24",
+        "ESTADO": "LA GUAIRA"
+    }
+]

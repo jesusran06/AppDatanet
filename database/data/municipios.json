@@ -1,0 +1,2012 @@
+[
+    {
+        "ID": "101",
+        "ID_ESTADO": "1",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "LIBERTADOR"
+    },
+    {
+        "ID": "201",
+        "ID_ESTADO": "2",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "AUTONOMO ALTO ORINOCO"
+    },
+    {
+        "ID": "202",
+        "ID_ESTADO": "2",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "AUTONOMO ATABAPO"
+    },
+    {
+        "ID": "203",
+        "ID_ESTADO": "2",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "AUTONOMO ATURES"
+    },
+    {
+        "ID": "204",
+        "ID_ESTADO": "2",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "AUTONOMO AUTANA"
+    },
+    {
+        "ID": "205",
+        "ID_ESTADO": "2",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "AUTONOMO MAROA"
+    },
+    {
+        "ID": "206",
+        "ID_ESTADO": "2",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "AUTONOMO MANAPIARE"
+    },
+    {
+        "ID": "207",
+        "ID_ESTADO": "2",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "AUTONOMO RIO NEGRO"
+    },
+    {
+        "ID": "301",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ANACO"
+    },
+    {
+        "ID": "302",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "ARAGUA"
+    },
+    {
+        "ID": "303",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "FERNANDO DE PEÑALVER"
+    },
+    {
+        "ID": "304",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "FRANCISCO DEL CARMEN CARVAJAL"
+    },
+    {
+        "ID": "305",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "FRANCISCO DE MIRANDA"
+    },
+    {
+        "ID": "306",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "GUANTA"
+    },
+    {
+        "ID": "307",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "INDEPENDENCIA"
+    },
+    {
+        "ID": "308",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "JUAN ANTONIO SOTILLO"
+    },
+    {
+        "ID": "309",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "JUAN MANUEL CAJIGAL"
+    },
+    {
+        "ID": "310",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "JOSE GREGORIO MONAGAS"
+    },
+    {
+        "ID": "311",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "LIBERTAD"
+    },
+    {
+        "ID": "312",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "MANUEL EZEQUIEL BRUZUAL"
+    },
+    {
+        "ID": "313",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "PEDRO MARIA FREITES"
+    },
+    {
+        "ID": "314",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "PIRITU"
+    },
+    {
+        "ID": "315",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "15",
+        "MUNICIPIO": "SAN JOSE DE GUANIPA"
+    },
+    {
+        "ID": "316",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "16",
+        "MUNICIPIO": "SAN JUAN DE CAPISTRANO"
+    },
+    {
+        "ID": "317",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "17",
+        "MUNICIPIO": "SANTA ANA"
+    },
+    {
+        "ID": "318",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "18",
+        "MUNICIPIO": "SIMON BOLIVAR"
+    },
+    {
+        "ID": "319",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "19",
+        "MUNICIPIO": "SIMON RODRIGUEZ"
+    },
+    {
+        "ID": "320",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "20",
+        "MUNICIPIO": "SIR ARTUR MC GREGOR"
+    },
+    {
+        "ID": "321",
+        "ID_ESTADO": "3",
+        "ID_MUNICIPIO": "21",
+        "MUNICIPIO": "TURISTICO DIEGO BAUTISTA URBANEJA"
+    },
+    {
+        "ID": "401",
+        "ID_ESTADO": "4",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ACHAGUAS"
+    },
+    {
+        "ID": "402",
+        "ID_ESTADO": "4",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "BIRUACA"
+    },
+    {
+        "ID": "403",
+        "ID_ESTADO": "4",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "MUÑOZ"
+    },
+    {
+        "ID": "404",
+        "ID_ESTADO": "4",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "PAEZ"
+    },
+    {
+        "ID": "405",
+        "ID_ESTADO": "4",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "PEDRO CAMEJO"
+    },
+    {
+        "ID": "406",
+        "ID_ESTADO": "4",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "ROMULO GALLEGOS"
+    },
+    {
+        "ID": "407",
+        "ID_ESTADO": "4",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "SAN FERNANDO"
+    },
+    {
+        "ID": "501",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "BOLIVAR"
+    },
+    {
+        "ID": "502",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "CAMATAGUA"
+    },
+    {
+        "ID": "503",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "GIRARDOT"
+    },
+    {
+        "ID": "504",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "JOSE ANGEL LAMAS"
+    },
+    {
+        "ID": "505",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "JOSE FELIX RIBAS"
+    },
+    {
+        "ID": "506",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "JOSE RAFAEL REVENGA"
+    },
+    {
+        "ID": "507",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "LIBERTADOR"
+    },
+    {
+        "ID": "508",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "MARIO BRICEÑO IRAGORRY"
+    },
+    {
+        "ID": "509",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "SAN CASIMIRO"
+    },
+    {
+        "ID": "510",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "SAN SEBASTIAN"
+    },
+    {
+        "ID": "511",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "SANTIAGO MARIÑO"
+    },
+    {
+        "ID": "512",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "SANTOS MICHELENA"
+    },
+    {
+        "ID": "513",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "SUCRE"
+    },
+    {
+        "ID": "514",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "TOVAR"
+    },
+    {
+        "ID": "515",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "15",
+        "MUNICIPIO": "URDANETA"
+    },
+    {
+        "ID": "516",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "16",
+        "MUNICIPIO": "ZAMORA"
+    },
+    {
+        "ID": "517",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "17",
+        "MUNICIPIO": "FRANCISCO LINARES ALCANTARA"
+    },
+    {
+        "ID": "518",
+        "ID_ESTADO": "5",
+        "ID_MUNICIPIO": "18",
+        "MUNICIPIO": "OCUMARE DE LA COSTA DE ORO"
+    },
+    {
+        "ID": "601",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ALBERTO ARVELO TORREALBA"
+    },
+    {
+        "ID": "602",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "ANTONIO JOSE DE SUCRE"
+    },
+    {
+        "ID": "603",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "ARISMENDI"
+    },
+    {
+        "ID": "604",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "BARINAS"
+    },
+    {
+        "ID": "605",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "BOLIVAR"
+    },
+    {
+        "ID": "606",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "CRUZ PAREDES"
+    },
+    {
+        "ID": "607",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "EZEQUIEL ZAMORA"
+    },
+    {
+        "ID": "608",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "OBISPOS"
+    },
+    {
+        "ID": "609",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "PEDRAZA"
+    },
+    {
+        "ID": "610",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "ROJAS"
+    },
+    {
+        "ID": "611",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "SOSA"
+    },
+    {
+        "ID": "612",
+        "ID_ESTADO": "6",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "ANDRES ELOY BLANCO"
+    },
+    {
+        "ID": "701",
+        "ID_ESTADO": "7",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "CARONI"
+    },
+    {
+        "ID": "702",
+        "ID_ESTADO": "7",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "CEDEÑO"
+    },
+    {
+        "ID": "703",
+        "ID_ESTADO": "7",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "EL CALLAO"
+    },
+    {
+        "ID": "704",
+        "ID_ESTADO": "7",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "GRAN SABANA"
+    },
+    {
+        "ID": "705",
+        "ID_ESTADO": "7",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "HERES"
+    },
+    {
+        "ID": "706",
+        "ID_ESTADO": "7",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "PIAR"
+    },
+    {
+        "ID": "707",
+        "ID_ESTADO": "7",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "RAUL LEONI"
+    },
+    {
+        "ID": "708",
+        "ID_ESTADO": "7",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "ROSCIO"
+    },
+    {
+        "ID": "709",
+        "ID_ESTADO": "7",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "SIFONTES"
+    },
+    {
+        "ID": "710",
+        "ID_ESTADO": "7",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "SUCRE"
+    },
+    {
+        "ID": "711",
+        "ID_ESTADO": "7",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "PADRE PEDRO CHIEN"
+    },
+    {
+        "ID": "801",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "BEJUMA"
+    },
+    {
+        "ID": "802",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "CARLOS ARVELO"
+    },
+    {
+        "ID": "803",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "DIEGO IBARRA"
+    },
+    {
+        "ID": "804",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "GUACARA"
+    },
+    {
+        "ID": "805",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "JUAN JOSE MORA"
+    },
+    {
+        "ID": "806",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "LIBERTADOR"
+    },
+    {
+        "ID": "807",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "LOS GUAYOS"
+    },
+    {
+        "ID": "808",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "MIRANDA"
+    },
+    {
+        "ID": "809",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "MONTALBAN"
+    },
+    {
+        "ID": "810",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "NAGUANAGUA"
+    },
+    {
+        "ID": "811",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "PUERTO CABELLO"
+    },
+    {
+        "ID": "812",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "SAN DIEGO"
+    },
+    {
+        "ID": "813",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "SAN JOAQUIN"
+    },
+    {
+        "ID": "814",
+        "ID_ESTADO": "8",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "VALENCIA"
+    },
+    {
+        "ID": "901",
+        "ID_ESTADO": "9",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ANZOATEGUI"
+    },
+    {
+        "ID": "902",
+        "ID_ESTADO": "9",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "FALCON"
+    },
+    {
+        "ID": "903",
+        "ID_ESTADO": "9",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "GIRARDOT"
+    },
+    {
+        "ID": "904",
+        "ID_ESTADO": "9",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "LIMA BLANCO"
+    },
+    {
+        "ID": "905",
+        "ID_ESTADO": "9",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "PAO DE SAN JUAN BAUTISTA"
+    },
+    {
+        "ID": "906",
+        "ID_ESTADO": "9",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "RICAURTE"
+    },
+    {
+        "ID": "907",
+        "ID_ESTADO": "9",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "ROMULO GALLEGOS"
+    },
+    {
+        "ID": "908",
+        "ID_ESTADO": "9",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "SAN CARLOS"
+    },
+    {
+        "ID": "909",
+        "ID_ESTADO": "9",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "TINACO"
+    },
+    {
+        "ID": "1001",
+        "ID_ESTADO": "10",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ANTONIO DIAZ"
+    },
+    {
+        "ID": "1002",
+        "ID_ESTADO": "10",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "CASACOIMA"
+    },
+    {
+        "ID": "1003",
+        "ID_ESTADO": "10",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "PEDERNALES"
+    },
+    {
+        "ID": "1004",
+        "ID_ESTADO": "10",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "TUCUPITA"
+    },
+    {
+        "ID": "1101",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ACOSTA"
+    },
+    {
+        "ID": "1102",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "BOLIVAR"
+    },
+    {
+        "ID": "1103",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "BUCHIVACOA"
+    },
+    {
+        "ID": "1104",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "CACIQUE MANAURE"
+    },
+    {
+        "ID": "1105",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "CARIRUBANA"
+    },
+    {
+        "ID": "1106",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "COLINA"
+    },
+    {
+        "ID": "1107",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "DABAJURO"
+    },
+    {
+        "ID": "1108",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "DEMOCRACIA"
+    },
+    {
+        "ID": "1109",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "FALCON"
+    },
+    {
+        "ID": "1110",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "FEDERACION"
+    },
+    {
+        "ID": "1111",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "JACURA"
+    },
+    {
+        "ID": "1112",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "LOS TAQUES"
+    },
+    {
+        "ID": "1113",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "MAUROA"
+    },
+    {
+        "ID": "1114",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "MIRANDA"
+    },
+    {
+        "ID": "1115",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "15",
+        "MUNICIPIO": "MONSEÑOR ITURRIZA"
+    },
+    {
+        "ID": "1116",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "16",
+        "MUNICIPIO": "PALMASOLA"
+    },
+    {
+        "ID": "1117",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "17",
+        "MUNICIPIO": "PETIT"
+    },
+    {
+        "ID": "1118",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "18",
+        "MUNICIPIO": "PIRITU"
+    },
+    {
+        "ID": "1119",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "19",
+        "MUNICIPIO": "SAN FRANCISCO"
+    },
+    {
+        "ID": "1120",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "20",
+        "MUNICIPIO": "SILVA"
+    },
+    {
+        "ID": "1121",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "21",
+        "MUNICIPIO": "SUCRE"
+    },
+    {
+        "ID": "1122",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "22",
+        "MUNICIPIO": "TOCOPERO"
+    },
+    {
+        "ID": "1123",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "23",
+        "MUNICIPIO": "UNION"
+    },
+    {
+        "ID": "1124",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "24",
+        "MUNICIPIO": "URUMACO"
+    },
+    {
+        "ID": "1125",
+        "ID_ESTADO": "11",
+        "ID_MUNICIPIO": "25",
+        "MUNICIPIO": "ZAMORA"
+    },
+    {
+        "ID": "1201",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "CAMAGUAN"
+    },
+    {
+        "ID": "1202",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "CHAGUARAMAS"
+    },
+    {
+        "ID": "1203",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "EL SOCORRO"
+    },
+    {
+        "ID": "1204",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "SAN GERONIMO DE GUAYABAL"
+    },
+    {
+        "ID": "1205",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "LEONARDO INFANTE"
+    },
+    {
+        "ID": "1206",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "LAS MERCEDES"
+    },
+    {
+        "ID": "1207",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "JULIAN MELLADO"
+    },
+    {
+        "ID": "1208",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "FRANCISCO DE MIRANDA"
+    },
+    {
+        "ID": "1209",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "JOSE TADEO MONAGAS"
+    },
+    {
+        "ID": "1210",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "ORTIZ"
+    },
+    {
+        "ID": "1211",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "JOSE FELIX RIVAS"
+    },
+    {
+        "ID": "1212",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "JUAN GERMAN ROSCIO"
+    },
+    {
+        "ID": "1213",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "SAN JOSE DE GUARIBE"
+    },
+    {
+        "ID": "1214",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "SANTA MARIA DE IPIRE"
+    },
+    {
+        "ID": "1215",
+        "ID_ESTADO": "12",
+        "ID_MUNICIPIO": "15",
+        "MUNICIPIO": "ZARAZA"
+    },
+    {
+        "ID": "1301",
+        "ID_ESTADO": "13",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ANDRES ELOY BLANCO"
+    },
+    {
+        "ID": "1302",
+        "ID_ESTADO": "13",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "CRESPO"
+    },
+    {
+        "ID": "1303",
+        "ID_ESTADO": "13",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "IRIBARREN"
+    },
+    {
+        "ID": "1304",
+        "ID_ESTADO": "13",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "JIMENEZ"
+    },
+    {
+        "ID": "1305",
+        "ID_ESTADO": "13",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "MORAN"
+    },
+    {
+        "ID": "1306",
+        "ID_ESTADO": "13",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "PALAVECINO"
+    },
+    {
+        "ID": "1307",
+        "ID_ESTADO": "13",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "SIMON PLANAS"
+    },
+    {
+        "ID": "1308",
+        "ID_ESTADO": "13",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "TORRES"
+    },
+    {
+        "ID": "1309",
+        "ID_ESTADO": "13",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "URDANETA"
+    },
+    {
+        "ID": "1401",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ALBERTO ADRIANI"
+    },
+    {
+        "ID": "1402",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "ANDRES BELLO"
+    },
+    {
+        "ID": "1403",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "ANTONIO PINTO SALINAS"
+    },
+    {
+        "ID": "1404",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "ARICAGUA"
+    },
+    {
+        "ID": "1405",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "ARZOBISPO CHACON"
+    },
+    {
+        "ID": "1406",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "CAMPO ELIAS"
+    },
+    {
+        "ID": "1407",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "CARACCIOLO PARRA OLMEDO"
+    },
+    {
+        "ID": "1408",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "CARDENAL QUINTERO"
+    },
+    {
+        "ID": "1409",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "GUARAQUE"
+    },
+    {
+        "ID": "1410",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "JULIO CESAR SALAS"
+    },
+    {
+        "ID": "1411",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "JUSTO BRICEÑO"
+    },
+    {
+        "ID": "1412",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "LIBERTADOR"
+    },
+    {
+        "ID": "1413",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "MIRANDA"
+    },
+    {
+        "ID": "1414",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "MIRANDA"
+    },
+    {
+        "ID": "1415",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "15",
+        "MUNICIPIO": "PADRE NOGUERA"
+    },
+    {
+        "ID": "1416",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "16",
+        "MUNICIPIO": "PUEBLO LLANO"
+    },
+    {
+        "ID": "1417",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "17",
+        "MUNICIPIO": "RANGEL"
+    },
+    {
+        "ID": "1418",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "18",
+        "MUNICIPIO": "RIVAS DAVILA"
+    },
+    {
+        "ID": "1419",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "19",
+        "MUNICIPIO": "SANTOS MARQUINA"
+    },
+    {
+        "ID": "1420",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "20",
+        "MUNICIPIO": "SUCRE"
+    },
+    {
+        "ID": "1421",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "21",
+        "MUNICIPIO": "TOVAR"
+    },
+    {
+        "ID": "1422",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "22",
+        "MUNICIPIO": "TULIO FEBRES CORDERO"
+    },
+    {
+        "ID": "1423",
+        "ID_ESTADO": "14",
+        "ID_MUNICIPIO": "23",
+        "MUNICIPIO": "ZEA"
+    },
+    {
+        "ID": "1501",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ACEVEDO"
+    },
+    {
+        "ID": "1502",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "ANDRES BELLO"
+    },
+    {
+        "ID": "1503",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "BARUTA"
+    },
+    {
+        "ID": "1504",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "BRION"
+    },
+    {
+        "ID": "1505",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "BUROZ"
+    },
+    {
+        "ID": "1506",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "CARRIZAL"
+    },
+    {
+        "ID": "1507",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "CHACAO"
+    },
+    {
+        "ID": "1508",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "CRISTOBAL ROJAS"
+    },
+    {
+        "ID": "1509",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "EL HATILLO"
+    },
+    {
+        "ID": "1510",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "GUAICAIPURO"
+    },
+    {
+        "ID": "1511",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "INDEPENDENCIA"
+    },
+    {
+        "ID": "1512",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "LANDER"
+    },
+    {
+        "ID": "1513",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "LOS SALIAS"
+    },
+    {
+        "ID": "1514",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "PAEZ"
+    },
+    {
+        "ID": "1515",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "15",
+        "MUNICIPIO": "PAZ CASTILLO"
+    },
+    {
+        "ID": "1516",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "16",
+        "MUNICIPIO": "PEDRO GUAL"
+    },
+    {
+        "ID": "1517",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "17",
+        "MUNICIPIO": "PLAZA"
+    },
+    {
+        "ID": "1518",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "18",
+        "MUNICIPIO": "SIMON BOLIVAR"
+    },
+    {
+        "ID": "1519",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "19",
+        "MUNICIPIO": "SUCRE"
+    },
+    {
+        "ID": "1520",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "20",
+        "MUNICIPIO": "URDANETA"
+    },
+    {
+        "ID": "1521",
+        "ID_ESTADO": "15",
+        "ID_MUNICIPIO": "21",
+        "MUNICIPIO": "ZAMORA"
+    },
+    {
+        "ID": "1601",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ACOSTA"
+    },
+    {
+        "ID": "1602",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "AGUASAY"
+    },
+    {
+        "ID": "1603",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "BOLIVAR"
+    },
+    {
+        "ID": "1604",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "CARIPE"
+    },
+    {
+        "ID": "1605",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "CEDEÑO"
+    },
+    {
+        "ID": "1606",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "EZEQUIEL ZAMORA"
+    },
+    {
+        "ID": "1607",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "LIBERTADOR"
+    },
+    {
+        "ID": "1608",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "MATURIN"
+    },
+    {
+        "ID": "1609",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "PIAR"
+    },
+    {
+        "ID": "1610",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "PUNCERES"
+    },
+    {
+        "ID": "1611",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "SANTA BARBARA"
+    },
+    {
+        "ID": "1612",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "SOTILLO"
+    },
+    {
+        "ID": "1613",
+        "ID_ESTADO": "16",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "URACOA"
+    },
+    {
+        "ID": "1701",
+        "ID_ESTADO": "17",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ANTOLIN DEL CAMPO"
+    },
+    {
+        "ID": "1702",
+        "ID_ESTADO": "17",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "ARISMENDI"
+    },
+    {
+        "ID": "1703",
+        "ID_ESTADO": "17",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "DIAZ"
+    },
+    {
+        "ID": "1704",
+        "ID_ESTADO": "17",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "GARCIA"
+    },
+    {
+        "ID": "1705",
+        "ID_ESTADO": "17",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "GOMEZ"
+    },
+    {
+        "ID": "1706",
+        "ID_ESTADO": "17",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "MANEIRO"
+    },
+    {
+        "ID": "1707",
+        "ID_ESTADO": "17",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "MARCANO"
+    },
+    {
+        "ID": "1708",
+        "ID_ESTADO": "17",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "MARIÑO"
+    },
+    {
+        "ID": "1709",
+        "ID_ESTADO": "17",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "PENINSULA DE MACANAO"
+    },
+    {
+        "ID": "1710",
+        "ID_ESTADO": "17",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "TUBORES"
+    },
+    {
+        "ID": "1711",
+        "ID_ESTADO": "17",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "VILLALBA"
+    },
+    {
+        "ID": "1801",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "AGUA BLANCA"
+    },
+    {
+        "ID": "1802",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "ARAURE"
+    },
+    {
+        "ID": "1803",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "ESTELLER"
+    },
+    {
+        "ID": "1804",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "GUANARE"
+    },
+    {
+        "ID": "1805",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "GUANARITO"
+    },
+    {
+        "ID": "1806",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "MONSEÑOR JOSE VICENTE DE UNDA"
+    },
+    {
+        "ID": "1807",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "OSPINO"
+    },
+    {
+        "ID": "1808",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "PAEZ"
+    },
+    {
+        "ID": "1809",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "PAPELON"
+    },
+    {
+        "ID": "1810",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "SAN GENARO DE BOCONOITO"
+    },
+    {
+        "ID": "1811",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "SAN RAFAEL DE ONOTO"
+    },
+    {
+        "ID": "1812",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "SANTA ROSALIA"
+    },
+    {
+        "ID": "1813",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "SUCRE"
+    },
+    {
+        "ID": "1814",
+        "ID_ESTADO": "18",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "TUREN"
+    },
+    {
+        "ID": "1901",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ANDRES ELOY BLANCO"
+    },
+    {
+        "ID": "1902",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "ANDRES MATA"
+    },
+    {
+        "ID": "1903",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "ARISMENDI"
+    },
+    {
+        "ID": "1904",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "BENITEZ"
+    },
+    {
+        "ID": "1905",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "BERMUDEZ"
+    },
+    {
+        "ID": "1906",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "BOLIVAR"
+    },
+    {
+        "ID": "1907",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "CAJIGAL"
+    },
+    {
+        "ID": "1908",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "CRUZ SALMERON ACOSTA"
+    },
+    {
+        "ID": "1909",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "LIBERTADOR"
+    },
+    {
+        "ID": "1910",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "MARIÑO"
+    },
+    {
+        "ID": "1911",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "MEJIA"
+    },
+    {
+        "ID": "1912",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "MONTES"
+    },
+    {
+        "ID": "1913",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "RIBERO"
+    },
+    {
+        "ID": "1914",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "SUCRE"
+    },
+    {
+        "ID": "1915",
+        "ID_ESTADO": "19",
+        "ID_MUNICIPIO": "15",
+        "MUNICIPIO": "VALDEZ"
+    },
+    {
+        "ID": "2001",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ANDRES BELLO"
+    },
+    {
+        "ID": "2002",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "ANTONIO ROMULO COSTA"
+    },
+    {
+        "ID": "2003",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "AYACUCHO"
+    },
+    {
+        "ID": "2004",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "BOLIVAR"
+    },
+    {
+        "ID": "2005",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "CARDENAS"
+    },
+    {
+        "ID": "2006",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "CORDOBA"
+    },
+    {
+        "ID": "2007",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "FERNANDEZ FEO"
+    },
+    {
+        "ID": "2008",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "FRANCISCO DE MIRANDA"
+    },
+    {
+        "ID": "2009",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "GARCIA DE HEVIA"
+    },
+    {
+        "ID": "2010",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "GUASIMOS"
+    },
+    {
+        "ID": "2011",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "INDEPENDENCIA"
+    },
+    {
+        "ID": "2012",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "JAUREGUI"
+    },
+    {
+        "ID": "2013",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "JOSE MARIA VARGAS"
+    },
+    {
+        "ID": "2014",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "JUNIN"
+    },
+    {
+        "ID": "2015",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "15",
+        "MUNICIPIO": "LIBERTAD"
+    },
+    {
+        "ID": "2016",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "16",
+        "MUNICIPIO": "LIBERTADOR"
+    },
+    {
+        "ID": "2017",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "17",
+        "MUNICIPIO": "LOBATERA"
+    },
+    {
+        "ID": "2018",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "18",
+        "MUNICIPIO": "MICHELENA"
+    },
+    {
+        "ID": "2019",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "19",
+        "MUNICIPIO": "PANAMERICANO"
+    },
+    {
+        "ID": "2020",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "20",
+        "MUNICIPIO": "PEDRO MARIA UREÑA"
+    },
+    {
+        "ID": "2021",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "21",
+        "MUNICIPIO": "RAFAEL URDANETA"
+    },
+    {
+        "ID": "2022",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "22",
+        "MUNICIPIO": "SAMUEL DARIO MALDONADO"
+    },
+    {
+        "ID": "2023",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "23",
+        "MUNICIPIO": "SAN CRISTOBAL"
+    },
+    {
+        "ID": "2024",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "24",
+        "MUNICIPIO": "SEBORUCO"
+    },
+    {
+        "ID": "2025",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "25",
+        "MUNICIPIO": "SIMON RODRIGUEZ"
+    },
+    {
+        "ID": "2026",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "26",
+        "MUNICIPIO": "SUCRE"
+    },
+    {
+        "ID": "2027",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "27",
+        "MUNICIPIO": "TORBES"
+    },
+    {
+        "ID": "2028",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "28",
+        "MUNICIPIO": "URIBANTE"
+    },
+    {
+        "ID": "2029",
+        "ID_ESTADO": "20",
+        "ID_MUNICIPIO": "29",
+        "MUNICIPIO": "SAN JUDAS TADEO"
+    },
+    {
+        "ID": "2101",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ANDRES BELLO"
+    },
+    {
+        "ID": "2102",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "BOCONO"
+    },
+    {
+        "ID": "2103",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "BOLIVAR"
+    },
+    {
+        "ID": "2104",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "CANDELARIA"
+    },
+    {
+        "ID": "2105",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "CARACHE"
+    },
+    {
+        "ID": "2106",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "ESCUQUE"
+    },
+    {
+        "ID": "2107",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "JOSE FELIPE MARQUEZ CAÑIZALES"
+    },
+    {
+        "ID": "2108",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "JUAN VICENTE CAMPO ELIAS"
+    },
+    {
+        "ID": "2109",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "LA CEIBA"
+    },
+    {
+        "ID": "2110",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "MIRANDA"
+    },
+    {
+        "ID": "2111",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "MONTE CARMELO"
+    },
+    {
+        "ID": "2112",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "MOTATAN"
+    },
+    {
+        "ID": "2113",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "PAMPAN"
+    },
+    {
+        "ID": "2114",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "PAMPANITO"
+    },
+    {
+        "ID": "2115",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "15",
+        "MUNICIPIO": "RAFAEL RANGEL"
+    },
+    {
+        "ID": "2116",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "16",
+        "MUNICIPIO": "SAN RAFAEL DE CARVAJAL"
+    },
+    {
+        "ID": "2117",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "17",
+        "MUNICIPIO": "SUCRE"
+    },
+    {
+        "ID": "2118",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "18",
+        "MUNICIPIO": "TRUJILLO"
+    },
+    {
+        "ID": "2119",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "19",
+        "MUNICIPIO": "URDANETA"
+    },
+    {
+        "ID": "2120",
+        "ID_ESTADO": "21",
+        "ID_MUNICIPIO": "20",
+        "MUNICIPIO": "VALERA"
+    },
+    {
+        "ID": "2201",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ARISTIDES BASTIDAS"
+    },
+    {
+        "ID": "2202",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "BOLIVAR"
+    },
+    {
+        "ID": "2203",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "BRUZUAL"
+    },
+    {
+        "ID": "2204",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "COCOROTE"
+    },
+    {
+        "ID": "2205",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "INDEPENDENCIA"
+    },
+    {
+        "ID": "2206",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "JOSE ANTONIO PAEZ"
+    },
+    {
+        "ID": "2207",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "LA TRINIDAD"
+    },
+    {
+        "ID": "2208",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "MANUEL MONGE"
+    },
+    {
+        "ID": "2209",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "NIRGUA"
+    },
+    {
+        "ID": "2210",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "PEÑA"
+    },
+    {
+        "ID": "2211",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "SAN FELIPE"
+    },
+    {
+        "ID": "2212",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "SUCRE"
+    },
+    {
+        "ID": "2213",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "URACHICHE"
+    },
+    {
+        "ID": "2214",
+        "ID_ESTADO": "22",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "VEROES"
+    },
+    {
+        "ID": "2301",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "ALMIRANTE PADILLA"
+    },
+    {
+        "ID": "2302",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "2",
+        "MUNICIPIO": "BARALT"
+    },
+    {
+        "ID": "2303",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "3",
+        "MUNICIPIO": "CABIMAS"
+    },
+    {
+        "ID": "2304",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "4",
+        "MUNICIPIO": "CATATUMBO"
+    },
+    {
+        "ID": "2305",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "5",
+        "MUNICIPIO": "COLON"
+    },
+    {
+        "ID": "2306",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "6",
+        "MUNICIPIO": "FRANCISCO JAVIER PULGAR"
+    },
+    {
+        "ID": "2307",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "7",
+        "MUNICIPIO": "JESUS ENRIQUE LOSSADA"
+    },
+    {
+        "ID": "2308",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "8",
+        "MUNICIPIO": "JESUS MARIA SEMPRUM"
+    },
+    {
+        "ID": "2309",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "9",
+        "MUNICIPIO": "LA CAÑADA DE URDANETA"
+    },
+    {
+        "ID": "2310",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "10",
+        "MUNICIPIO": "LAGUNILLAS"
+    },
+    {
+        "ID": "2311",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "11",
+        "MUNICIPIO": "MACHIQUES DE PERIJA"
+    },
+    {
+        "ID": "2312",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "12",
+        "MUNICIPIO": "MARA"
+    },
+    {
+        "ID": "2313",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "13",
+        "MUNICIPIO": "MARACAIBO"
+    },
+    {
+        "ID": "2314",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "14",
+        "MUNICIPIO": "MIRANDA"
+    },
+    {
+        "ID": "2315",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "15",
+        "MUNICIPIO": "PAEZ"
+    },
+    {
+        "ID": "2316",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "16",
+        "MUNICIPIO": "ROSARIO DE PERIJA"
+    },
+    {
+        "ID": "2317",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "17",
+        "MUNICIPIO": "SAN FRANCISCO"
+    },
+    {
+        "ID": "2318",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "18",
+        "MUNICIPIO": "SANTA RITA"
+    },
+    {
+        "ID": "2319",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "19",
+        "MUNICIPIO": "SIMON BOLIVAR"
+    },
+    {
+        "ID": "2320",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "20",
+        "MUNICIPIO": "SUCRE"
+    },
+    {
+        "ID": "2321",
+        "ID_ESTADO": "23",
+        "ID_MUNICIPIO": "21",
+        "MUNICIPIO": "VALMORE RODRIGUEZ"
+    },
+    {
+        "ID": "2401",
+        "ID_ESTADO": "24",
+        "ID_MUNICIPIO": "1",
+        "MUNICIPIO": "VARGAS"
+    }
+]

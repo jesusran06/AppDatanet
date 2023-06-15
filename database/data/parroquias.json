@@ -1,0 +1,6338 @@
+[
+    {
+        "ID": "10101",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ALTAGRACIA"
+    },
+    {
+        "ID": "10102",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANTIMANO"
+    },
+    {
+        "ID": "10103",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CANDELARIA"
+    },
+    {
+        "ID": "10104",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "CARICUAO"
+    },
+    {
+        "ID": "10105",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "CATEDRAL"
+    },
+    {
+        "ID": "10106",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "COCHE"
+    },
+    {
+        "ID": "10107",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "EL JUNQUITO"
+    },
+    {
+        "ID": "10108",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "EL PARAISO"
+    },
+    {
+        "ID": "10109",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "EL RECREO"
+    },
+    {
+        "ID": "10110",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "10",
+        "PARROQUIA": "EL VALLE"
+    },
+    {
+        "ID": "10111",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "11",
+        "PARROQUIA": "LA PASTORA"
+    },
+    {
+        "ID": "10112",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "12",
+        "PARROQUIA": "LA VEGA"
+    },
+    {
+        "ID": "10113",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "13",
+        "PARROQUIA": "MACARAO"
+    },
+    {
+        "ID": "10114",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "14",
+        "PARROQUIA": "SAN AGUSTIN"
+    },
+    {
+        "ID": "10115",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "15",
+        "PARROQUIA": "SAN BENARDINO"
+    },
+    {
+        "ID": "10116",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "16",
+        "PARROQUIA": "SAN JOSE"
+    },
+    {
+        "ID": "10117",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "17",
+        "PARROQUIA": "SAN JUAN"
+    },
+    {
+        "ID": "10118",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "18",
+        "PARROQUIA": "SAN PEDRO"
+    },
+    {
+        "ID": "10119",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "19",
+        "PARROQUIA": "SANTA ROSALIA"
+    },
+    {
+        "ID": "10120",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "20",
+        "PARROQUIA": "SANTA TERESA"
+    },
+    {
+        "ID": "10121",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "21",
+        "PARROQUIA": "SUCRE"
+    },
+    {
+        "ID": "10122",
+        "ID_MUNICIPIO": "101",
+        "ID_PARROQUIA": "22",
+        "PARROQUIA": "23 DE ENERO"
+    },
+    {
+        "ID": "30101",
+        "ID_MUNICIPIO": "301",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL ANACO"
+    },
+    {
+        "ID": "30102",
+        "ID_MUNICIPIO": "301",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN JOAQUIN"
+    },
+    {
+        "ID": "30201",
+        "ID_MUNICIPIO": "302",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL ARAGUA"
+    },
+    {
+        "ID": "30202",
+        "ID_MUNICIPIO": "302",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CACHIPO"
+    },
+    {
+        "ID": "30301",
+        "ID_MUNICIPIO": "303",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PUERTO PIRITU"
+    },
+    {
+        "ID": "30302",
+        "ID_MUNICIPIO": "303",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN MIGUEL"
+    },
+    {
+        "ID": "30303",
+        "ID_MUNICIPIO": "303",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SUCRE"
+    },
+    {
+        "ID": "30401",
+        "ID_MUNICIPIO": "304",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "VALLE DE GUANAPE"
+    },
+    {
+        "ID": "30402",
+        "ID_MUNICIPIO": "304",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SANTA BARBARA"
+    },
+    {
+        "ID": "30501",
+        "ID_MUNICIPIO": "305",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PARIAGUAN"
+    },
+    {
+        "ID": "30502",
+        "ID_MUNICIPIO": "305",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ATAPIRIRE"
+    },
+    {
+        "ID": "30503",
+        "ID_MUNICIPIO": "305",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "BOCA DEL PAO"
+    },
+    {
+        "ID": "30504",
+        "ID_MUNICIPIO": "305",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "EL PAO DE BARCELONA"
+    },
+    {
+        "ID": "30601",
+        "ID_MUNICIPIO": "306",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "GUANTA"
+    },
+    {
+        "ID": "30602",
+        "ID_MUNICIPIO": "306",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CHORRERON"
+    },
+    {
+        "ID": "30701",
+        "ID_MUNICIPIO": "307",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SOLEDAD"
+    },
+    {
+        "ID": "30702",
+        "ID_MUNICIPIO": "307",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "MAMO"
+    },
+    {
+        "ID": "30801",
+        "ID_MUNICIPIO": "308",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PUERTO LA CRUZ"
+    },
+    {
+        "ID": "30802",
+        "ID_MUNICIPIO": "308",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "POZUELOS"
+    },
+    {
+        "ID": "30901",
+        "ID_MUNICIPIO": "309",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ONOTO"
+    },
+    {
+        "ID": "30902",
+        "ID_MUNICIPIO": "309",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN PABLO"
+    },
+    {
+        "ID": "31001",
+        "ID_MUNICIPIO": "310",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "MAPIRE"
+    },
+    {
+        "ID": "31002",
+        "ID_MUNICIPIO": "310",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "PIAR"
+    },
+    {
+        "ID": "31003",
+        "ID_MUNICIPIO": "310",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN DIEGO DE CABRUTICA"
+    },
+    {
+        "ID": "31004",
+        "ID_MUNICIPIO": "310",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SANTA CLARA"
+    },
+    {
+        "ID": "31005",
+        "ID_MUNICIPIO": "310",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "UVERITO"
+    },
+    {
+        "ID": "31006",
+        "ID_MUNICIPIO": "310",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "ZUATA"
+    },
+    {
+        "ID": "31101",
+        "ID_MUNICIPIO": "311",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN MATEO"
+    },
+    {
+        "ID": "31102",
+        "ID_MUNICIPIO": "311",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL CARITO"
+    },
+    {
+        "ID": "31103",
+        "ID_MUNICIPIO": "311",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTA INES"
+    },
+    {
+        "ID": "31201",
+        "ID_MUNICIPIO": "312",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CLARINES"
+    },
+    {
+        "ID": "31202",
+        "ID_MUNICIPIO": "312",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "GUANAPE"
+    },
+    {
+        "ID": "31203",
+        "ID_MUNICIPIO": "312",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SABANA DE UCHIRE"
+    },
+    {
+        "ID": "31301",
+        "ID_MUNICIPIO": "313",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CANTAURA"
+    },
+    {
+        "ID": "31302",
+        "ID_MUNICIPIO": "313",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LIBERTADOR"
+    },
+    {
+        "ID": "31303",
+        "ID_MUNICIPIO": "313",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTA ROSA"
+    },
+    {
+        "ID": "31304",
+        "ID_MUNICIPIO": "313",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "URICA"
+    },
+    {
+        "ID": "31401",
+        "ID_MUNICIPIO": "314",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL PIRITU"
+    },
+    {
+        "ID": "31402",
+        "ID_MUNICIPIO": "314",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN FRANCISCO"
+    },
+    {
+        "ID": "31601",
+        "ID_MUNICIPIO": "316",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "BOCA DE UCHIRE"
+    },
+    {
+        "ID": "31602",
+        "ID_MUNICIPIO": "316",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BOCA DE CHAVEZ"
+    },
+    {
+        "ID": "31701",
+        "ID_MUNICIPIO": "317",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SANTA ANA"
+    },
+    {
+        "ID": "31702",
+        "ID_MUNICIPIO": "317",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "PUEBLO NUEVO"
+    },
+    {
+        "ID": "31801",
+        "ID_MUNICIPIO": "318",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL CARMEN"
+    },
+    {
+        "ID": "31802",
+        "ID_MUNICIPIO": "318",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN CRISTOBAL"
+    },
+    {
+        "ID": "31803",
+        "ID_MUNICIPIO": "318",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "BERGANTIN"
+    },
+    {
+        "ID": "31804",
+        "ID_MUNICIPIO": "318",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "CAIGUA"
+    },
+    {
+        "ID": "31805",
+        "ID_MUNICIPIO": "318",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "EL PILAR"
+    },
+    {
+        "ID": "31806",
+        "ID_MUNICIPIO": "318",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "NARICUAL"
+    },
+    {
+        "ID": "32001",
+        "ID_MUNICIPIO": "320",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL CHAPARRO"
+    },
+    {
+        "ID": "32002",
+        "ID_MUNICIPIO": "320",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "TOMAS ALFARO CALATRAVA"
+    },
+    {
+        "ID": "32101",
+        "ID_MUNICIPIO": "321",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LECHERIAS"
+    },
+    {
+        "ID": "32102",
+        "ID_MUNICIPIO": "321",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL MORRO"
+    },
+    {
+        "ID": "40101",
+        "ID_MUNICIPIO": "401",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA ACHAGUAS"
+    },
+    {
+        "ID": "40102",
+        "ID_MUNICIPIO": "401",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "APURITO"
+    },
+    {
+        "ID": "40103",
+        "ID_MUNICIPIO": "401",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "EL YAGUAL"
+    },
+    {
+        "ID": "40104",
+        "ID_MUNICIPIO": "401",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "GUACHARA"
+    },
+    {
+        "ID": "40105",
+        "ID_MUNICIPIO": "401",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "MUCURITAS"
+    },
+    {
+        "ID": "40106",
+        "ID_MUNICIPIO": "401",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "QUESERAS DEL MEDIO"
+    },
+    {
+        "ID": "40201",
+        "ID_MUNICIPIO": "402",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA BIRUACA"
+    },
+    {
+        "ID": "40301",
+        "ID_MUNICIPIO": "403",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA BRUZUAL"
+    },
+    {
+        "ID": "40302",
+        "ID_MUNICIPIO": "403",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "MANTECAL"
+    },
+    {
+        "ID": "40303",
+        "ID_MUNICIPIO": "403",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "QUINTERO"
+    },
+    {
+        "ID": "40304",
+        "ID_MUNICIPIO": "403",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "RINCON HONDO"
+    },
+    {
+        "ID": "40305",
+        "ID_MUNICIPIO": "403",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN VICENTE"
+    },
+    {
+        "ID": "40401",
+        "ID_MUNICIPIO": "404",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA GUASDUALITO"
+    },
+    {
+        "ID": "40402",
+        "ID_MUNICIPIO": "404",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ARAMENDI"
+    },
+    {
+        "ID": "40403",
+        "ID_MUNICIPIO": "404",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "EL AMPARO"
+    },
+    {
+        "ID": "40404",
+        "ID_MUNICIPIO": "404",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN CAMILO"
+    },
+    {
+        "ID": "40405",
+        "ID_MUNICIPIO": "404",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "URDANETA"
+    },
+    {
+        "ID": "40501",
+        "ID_MUNICIPIO": "405",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA SAN JUAN DE PAYARA"
+    },
+    {
+        "ID": "40502",
+        "ID_MUNICIPIO": "405",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CODAZZI"
+    },
+    {
+        "ID": "40503",
+        "ID_MUNICIPIO": "405",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CUNAVICHE"
+    },
+    {
+        "ID": "40601",
+        "ID_MUNICIPIO": "406",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA ELORZA"
+    },
+    {
+        "ID": "40602",
+        "ID_MUNICIPIO": "406",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LA TRINIDAD"
+    },
+    {
+        "ID": "40701",
+        "ID_MUNICIPIO": "407",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA SAN FERNANDO"
+    },
+    {
+        "ID": "40702",
+        "ID_MUNICIPIO": "407",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL RECREO"
+    },
+    {
+        "ID": "40703",
+        "ID_MUNICIPIO": "407",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "PEÑALVER"
+    },
+    {
+        "ID": "40704",
+        "ID_MUNICIPIO": "407",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN RAFAEL DE ATAMAICA"
+    },
+    {
+        "ID": "50201",
+        "ID_MUNICIPIO": "502",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL CAMATAGUA"
+    },
+    {
+        "ID": "50202",
+        "ID_MUNICIPIO": "502",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA CARMEN DE CURA"
+    },
+    {
+        "ID": "50301",
+        "ID_MUNICIPIO": "503",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "NO URBANA CHORONI"
+    },
+    {
+        "ID": "50302",
+        "ID_MUNICIPIO": "503",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "URBANA LAS DELICIAS"
+    },
+    {
+        "ID": "50303",
+        "ID_MUNICIPIO": "503",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "URBANA MADRE MARIA DE SAN JOSE"
+    },
+    {
+        "ID": "50304",
+        "ID_MUNICIPIO": "503",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "URBANA JOAQUIN CRESPO"
+    },
+    {
+        "ID": "50305",
+        "ID_MUNICIPIO": "503",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "URBANA PEDRO JOSE OVALLES"
+    },
+    {
+        "ID": "50306",
+        "ID_MUNICIPIO": "503",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "URBANA JOSE CASANOVA GODOY"
+    },
+    {
+        "ID": "50307",
+        "ID_MUNICIPIO": "503",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "URBANA ANDRES ELOY BLANCO"
+    },
+    {
+        "ID": "50308",
+        "ID_MUNICIPIO": "503",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "URBANA LOS TACARIGUAS"
+    },
+    {
+        "ID": "50401",
+        "ID_MUNICIPIO": "504",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SANTA CRUZ"
+    },
+    {
+        "ID": "50501",
+        "ID_MUNICIPIO": "505",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL JOSE FELIX RIBAS"
+    },
+    {
+        "ID": "50502",
+        "ID_MUNICIPIO": "505",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "URBANA CASTOR NIEVES RIOS"
+    },
+    {
+        "ID": "50503",
+        "ID_MUNICIPIO": "505",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "NO URBANA LAS GUACAMAYAS"
+    },
+    {
+        "ID": "50504",
+        "ID_MUNICIPIO": "505",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "NO URBANA PAO DE ZARATE"
+    },
+    {
+        "ID": "50505",
+        "ID_MUNICIPIO": "505",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "NO URBANA ZUATA"
+    },
+    {
+        "ID": "50701",
+        "ID_MUNICIPIO": "507",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL LIBERTADOR"
+    },
+    {
+        "ID": "50702",
+        "ID_MUNICIPIO": "507",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA SAN MARTIN DE PORRES"
+    },
+    {
+        "ID": "50801",
+        "ID_MUNICIPIO": "508",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL MARIO BRICEÑO IRAGORRY"
+    },
+    {
+        "ID": "50802",
+        "ID_MUNICIPIO": "508",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "URBANA CAÑA DE AZUCAR"
+    },
+    {
+        "ID": "50901",
+        "ID_MUNICIPIO": "509",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SAN CASIMIRO"
+    },
+    {
+        "ID": "50902",
+        "ID_MUNICIPIO": "509",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA GUIRIPA"
+    },
+    {
+        "ID": "50903",
+        "ID_MUNICIPIO": "509",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "NO URBANA OLLAS DE CARAMACATE"
+    },
+    {
+        "ID": "50904",
+        "ID_MUNICIPIO": "509",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "NO URBANA VALLE MORIN"
+    },
+    {
+        "ID": "51101",
+        "ID_MUNICIPIO": "511",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SANTIAGO MARIÑO"
+    },
+    {
+        "ID": "51102",
+        "ID_MUNICIPIO": "511",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA AREVALO APONTE"
+    },
+    {
+        "ID": "51103",
+        "ID_MUNICIPIO": "511",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "NO URBANA CHUAO"
+    },
+    {
+        "ID": "51104",
+        "ID_MUNICIPIO": "511",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "NO URBANA SAMAN DE GUERE"
+    },
+    {
+        "ID": "51105",
+        "ID_MUNICIPIO": "511",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "NO URBANA ALFREDO PACHECO MIRANDA"
+    },
+    {
+        "ID": "51201",
+        "ID_MUNICIPIO": "512",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SANTOS MICHELENA"
+    },
+    {
+        "ID": "51202",
+        "ID_MUNICIPIO": "512",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA TIARA"
+    },
+    {
+        "ID": "51301",
+        "ID_MUNICIPIO": "513",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SUCRE"
+    },
+    {
+        "ID": "51302",
+        "ID_MUNICIPIO": "513",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA BELLA VISTA"
+    },
+    {
+        "ID": "51401",
+        "ID_MUNICIPIO": "514",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "TOVAR"
+    },
+    {
+        "ID": "51501",
+        "ID_MUNICIPIO": "515",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL URDANETA"
+    },
+    {
+        "ID": "51502",
+        "ID_MUNICIPIO": "515",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA LAS PEÑITAS"
+    },
+    {
+        "ID": "51503",
+        "ID_MUNICIPIO": "515",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "NO URBANA SAN FRANCISCO DE CARA"
+    },
+    {
+        "ID": "51504",
+        "ID_MUNICIPIO": "515",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "NO URBANA TAGUAY"
+    },
+    {
+        "ID": "51601",
+        "ID_MUNICIPIO": "516",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL ZAMORA"
+    },
+    {
+        "ID": "51602",
+        "ID_MUNICIPIO": "516",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA MAGDALENO"
+    },
+    {
+        "ID": "51603",
+        "ID_MUNICIPIO": "516",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "NO URBANA SAN FRANCISCO DE ASIS"
+    },
+    {
+        "ID": "51604",
+        "ID_MUNICIPIO": "516",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "NO URBANA VALLES DEL TUCUTUNEMO"
+    },
+    {
+        "ID": "51605",
+        "ID_MUNICIPIO": "516",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "NO URBANA AUGUSTO MIJARES"
+    },
+    {
+        "ID": "51701",
+        "ID_MUNICIPIO": "517",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL FRANCISCO LINARES ALCANTARA"
+    },
+    {
+        "ID": "51702",
+        "ID_MUNICIPIO": "517",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA FRANCISCO DE MIRANDA"
+    },
+    {
+        "ID": "51703",
+        "ID_MUNICIPIO": "517",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "NO URBANA  MONSEÑOR FELICIANO GONZALEZ"
+    },
+    {
+        "ID": "60101",
+        "ID_MUNICIPIO": "601",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SABANETA"
+    },
+    {
+        "ID": "60102",
+        "ID_MUNICIPIO": "601",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "RODRIGUEZ DOMINGUEZ"
+    },
+    {
+        "ID": "60201",
+        "ID_MUNICIPIO": "602",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "TICOPORO"
+    },
+    {
+        "ID": "60202",
+        "ID_MUNICIPIO": "602",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANDRES BELLO"
+    },
+    {
+        "ID": "60203",
+        "ID_MUNICIPIO": "602",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "NICOLAS PULIDO"
+    },
+    {
+        "ID": "60301",
+        "ID_MUNICIPIO": "603",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ARISMENDI"
+    },
+    {
+        "ID": "60302",
+        "ID_MUNICIPIO": "603",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "GUADARRAMA"
+    },
+    {
+        "ID": "60303",
+        "ID_MUNICIPIO": "603",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA UNION"
+    },
+    {
+        "ID": "60304",
+        "ID_MUNICIPIO": "603",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN ANTONIO"
+    },
+    {
+        "ID": "60401",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "BARINAS"
+    },
+    {
+        "ID": "60402",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ALFREDO ARVELO LARRIVA"
+    },
+    {
+        "ID": "60403",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN SILVESTRE"
+    },
+    {
+        "ID": "60404",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SANTA INES"
+    },
+    {
+        "ID": "60405",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SANTA LUCIA"
+    },
+    {
+        "ID": "60406",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "TORUNOS"
+    },
+    {
+        "ID": "60407",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "EL CARMEN"
+    },
+    {
+        "ID": "60408",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "ROMULO BETANCOURT"
+    },
+    {
+        "ID": "60409",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "CORAZON DE JESUS"
+    },
+    {
+        "ID": "60410",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "10",
+        "PARROQUIA": "RAMON IGNACIO MENDEZ"
+    },
+    {
+        "ID": "60411",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "11",
+        "PARROQUIA": "ALTO BARINAS"
+    },
+    {
+        "ID": "60412",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "12",
+        "PARROQUIA": "MANUEL PALACIO FAJARDO"
+    },
+    {
+        "ID": "60413",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "13",
+        "PARROQUIA": "JUAN ANTONIO RODRIGUEZ DOMINGUEZ"
+    },
+    {
+        "ID": "60414",
+        "ID_MUNICIPIO": "604",
+        "ID_PARROQUIA": "14",
+        "PARROQUIA": "DOMINGA ORTIZ DE PAEZ"
+    },
+    {
+        "ID": "60501",
+        "ID_MUNICIPIO": "605",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "BARINITAS"
+    },
+    {
+        "ID": "60502",
+        "ID_MUNICIPIO": "605",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ALTAMIRA"
+    },
+    {
+        "ID": "60503",
+        "ID_MUNICIPIO": "605",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CALDERAS"
+    },
+    {
+        "ID": "60601",
+        "ID_MUNICIPIO": "606",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "BARRANCAS"
+    },
+    {
+        "ID": "60602",
+        "ID_MUNICIPIO": "606",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL SOCORRO"
+    },
+    {
+        "ID": "60603",
+        "ID_MUNICIPIO": "606",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "MASPARRITO"
+    },
+    {
+        "ID": "60701",
+        "ID_MUNICIPIO": "607",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SANTA BARBARA"
+    },
+    {
+        "ID": "60702",
+        "ID_MUNICIPIO": "607",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "JOSE IGNACIO DEL PUMAR"
+    },
+    {
+        "ID": "60703",
+        "ID_MUNICIPIO": "607",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "PEDRO BRICEÑO MENDEZ"
+    },
+    {
+        "ID": "60704",
+        "ID_MUNICIPIO": "607",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "RAMON IGNACIO MENDEZ"
+    },
+    {
+        "ID": "60801",
+        "ID_MUNICIPIO": "608",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "OBISPOS"
+    },
+    {
+        "ID": "60802",
+        "ID_MUNICIPIO": "608",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL REAL"
+    },
+    {
+        "ID": "60803",
+        "ID_MUNICIPIO": "608",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA LUZ"
+    },
+    {
+        "ID": "60804",
+        "ID_MUNICIPIO": "608",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LOS GUASIMITOS"
+    },
+    {
+        "ID": "60901",
+        "ID_MUNICIPIO": "609",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CIUDAD BOLIVIA"
+    },
+    {
+        "ID": "60902",
+        "ID_MUNICIPIO": "609",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "IGNACIO BRICEÑO"
+    },
+    {
+        "ID": "60903",
+        "ID_MUNICIPIO": "609",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "JOSE FELIX RIBAS"
+    },
+    {
+        "ID": "60904",
+        "ID_MUNICIPIO": "609",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "PAEZ"
+    },
+    {
+        "ID": "61001",
+        "ID_MUNICIPIO": "610",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LIBERTAD"
+    },
+    {
+        "ID": "61002",
+        "ID_MUNICIPIO": "610",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "DOLORES"
+    },
+    {
+        "ID": "61003",
+        "ID_MUNICIPIO": "610",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "PALACIOS FAJARDO"
+    },
+    {
+        "ID": "61004",
+        "ID_MUNICIPIO": "610",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SANTA ROSA"
+    },
+    {
+        "ID": "61101",
+        "ID_MUNICIPIO": "611",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CIUDAD DE NUTRIAS"
+    },
+    {
+        "ID": "61102",
+        "ID_MUNICIPIO": "611",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL REGALO"
+    },
+    {
+        "ID": "61103",
+        "ID_MUNICIPIO": "611",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "PUERTO DE NUTRIAS"
+    },
+    {
+        "ID": "61104",
+        "ID_MUNICIPIO": "611",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SANTA CATALINA"
+    },
+    {
+        "ID": "61201",
+        "ID_MUNICIPIO": "612",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL CANTON"
+    },
+    {
+        "ID": "61202",
+        "ID_MUNICIPIO": "612",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SANTA CRUZ DE GUACAS"
+    },
+    {
+        "ID": "61203",
+        "ID_MUNICIPIO": "612",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "PUERTO VIVAS"
+    },
+    {
+        "ID": "70101",
+        "ID_MUNICIPIO": "701",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CACHAMAY"
+    },
+    {
+        "ID": "70102",
+        "ID_MUNICIPIO": "701",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CHIRICA"
+    },
+    {
+        "ID": "70103",
+        "ID_MUNICIPIO": "701",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "DALLA COSTA"
+    },
+    {
+        "ID": "70104",
+        "ID_MUNICIPIO": "701",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "ONCE DE ABRIL"
+    },
+    {
+        "ID": "70105",
+        "ID_MUNICIPIO": "701",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SIMON BOLIVAR"
+    },
+    {
+        "ID": "70106",
+        "ID_MUNICIPIO": "701",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "UNARE"
+    },
+    {
+        "ID": "70107",
+        "ID_MUNICIPIO": "701",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "UNIVERSIDAD"
+    },
+    {
+        "ID": "70108",
+        "ID_MUNICIPIO": "701",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "VISTA AL SOL"
+    },
+    {
+        "ID": "70109",
+        "ID_MUNICIPIO": "701",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "POZO VERDE"
+    },
+    {
+        "ID": "70110",
+        "ID_MUNICIPIO": "701",
+        "ID_PARROQUIA": "10",
+        "PARROQUIA": "YOCOIMA"
+    },
+    {
+        "ID": "70201",
+        "ID_MUNICIPIO": "702",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SECCION CAPITAL CEDEÑO"
+    },
+    {
+        "ID": "70202",
+        "ID_MUNICIPIO": "702",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ALTAGRACIA"
+    },
+    {
+        "ID": "70203",
+        "ID_MUNICIPIO": "702",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "ASCENCION FARRERAS"
+    },
+    {
+        "ID": "70204",
+        "ID_MUNICIPIO": "702",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "GUANIAMO"
+    },
+    {
+        "ID": "70205",
+        "ID_MUNICIPIO": "702",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "LA URBANA"
+    },
+    {
+        "ID": "70206",
+        "ID_MUNICIPIO": "702",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "PIJIGUAOS"
+    },
+    {
+        "ID": "70401",
+        "ID_MUNICIPIO": "704",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SECCION CAPITAL GRAN SABANA"
+    },
+    {
+        "ID": "70402",
+        "ID_MUNICIPIO": "704",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "IKABARU"
+    },
+    {
+        "ID": "70501",
+        "ID_MUNICIPIO": "705",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "AGUA SALADA"
+    },
+    {
+        "ID": "70502",
+        "ID_MUNICIPIO": "705",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CATEDRAL"
+    },
+    {
+        "ID": "70503",
+        "ID_MUNICIPIO": "705",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "JOSE ANTONIO PAEZ"
+    },
+    {
+        "ID": "70504",
+        "ID_MUNICIPIO": "705",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LA SABANITA"
+    },
+    {
+        "ID": "70505",
+        "ID_MUNICIPIO": "705",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "MARHUANTA"
+    },
+    {
+        "ID": "70506",
+        "ID_MUNICIPIO": "705",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "VISTA HERMOSA"
+    },
+    {
+        "ID": "70507",
+        "ID_MUNICIPIO": "705",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "ORINOCO"
+    },
+    {
+        "ID": "70508",
+        "ID_MUNICIPIO": "705",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "PANAPANA"
+    },
+    {
+        "ID": "70509",
+        "ID_MUNICIPIO": "705",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "ZEA"
+    },
+    {
+        "ID": "70601",
+        "ID_MUNICIPIO": "706",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SECCION CAPITAL PIAR"
+    },
+    {
+        "ID": "70602",
+        "ID_MUNICIPIO": "706",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANDRES ELOY BLANCO"
+    },
+    {
+        "ID": "70603",
+        "ID_MUNICIPIO": "706",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "PEDRO COVA"
+    },
+    {
+        "ID": "70701",
+        "ID_MUNICIPIO": "707",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SECCION CAPITAL RAUL LEONI"
+    },
+    {
+        "ID": "70702",
+        "ID_MUNICIPIO": "707",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BARCELONETA"
+    },
+    {
+        "ID": "70703",
+        "ID_MUNICIPIO": "707",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN FRANCISCO"
+    },
+    {
+        "ID": "70704",
+        "ID_MUNICIPIO": "707",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SANTA BARBARA"
+    },
+    {
+        "ID": "70801",
+        "ID_MUNICIPIO": "708",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SECCION CAPITAL ROSCIO"
+    },
+    {
+        "ID": "70802",
+        "ID_MUNICIPIO": "708",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SALOM"
+    },
+    {
+        "ID": "70901",
+        "ID_MUNICIPIO": "709",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SECCION CAPITAL SIFONTES"
+    },
+    {
+        "ID": "70902",
+        "ID_MUNICIPIO": "709",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "DALLA COSTA"
+    },
+    {
+        "ID": "70903",
+        "ID_MUNICIPIO": "709",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN ISIDRO"
+    },
+    {
+        "ID": "71001",
+        "ID_MUNICIPIO": "710",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SECCION CAPITAL SUCRE"
+    },
+    {
+        "ID": "71002",
+        "ID_MUNICIPIO": "710",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ARIPAO"
+    },
+    {
+        "ID": "71003",
+        "ID_MUNICIPIO": "710",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "GUARATARO"
+    },
+    {
+        "ID": "71004",
+        "ID_MUNICIPIO": "710",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LAS MAJADAS"
+    },
+    {
+        "ID": "71005",
+        "ID_MUNICIPIO": "710",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "MOITACO"
+    },
+    {
+        "ID": "80101",
+        "ID_MUNICIPIO": "801",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA BEJUMA"
+    },
+    {
+        "ID": "80102",
+        "ID_MUNICIPIO": "801",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA CANOABO"
+    },
+    {
+        "ID": "80103",
+        "ID_MUNICIPIO": "801",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "NO URBANA SIMON BOLIVAR"
+    },
+    {
+        "ID": "80201",
+        "ID_MUNICIPIO": "802",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA GUIGUE"
+    },
+    {
+        "ID": "80202",
+        "ID_MUNICIPIO": "802",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA BELEN"
+    },
+    {
+        "ID": "80203",
+        "ID_MUNICIPIO": "802",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "NO URBANA TACARIGUA"
+    },
+    {
+        "ID": "80301",
+        "ID_MUNICIPIO": "803",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA AGUAS CALIENTES"
+    },
+    {
+        "ID": "80302",
+        "ID_MUNICIPIO": "803",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "URBANA MARIARA"
+    },
+    {
+        "ID": "80401",
+        "ID_MUNICIPIO": "804",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA CIUDAD ALIANZA"
+    },
+    {
+        "ID": "80402",
+        "ID_MUNICIPIO": "804",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "URBANA GUACARA"
+    },
+    {
+        "ID": "80403",
+        "ID_MUNICIPIO": "804",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "NO URBANA YAGUA"
+    },
+    {
+        "ID": "80501",
+        "ID_MUNICIPIO": "805",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA MORON"
+    },
+    {
+        "ID": "80502",
+        "ID_MUNICIPIO": "805",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NO URBANA URAMA"
+    },
+    {
+        "ID": "80601",
+        "ID_MUNICIPIO": "806",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA TOCUYITO"
+    },
+    {
+        "ID": "80602",
+        "ID_MUNICIPIO": "806",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "URBANA INDEPENDENCIA"
+    },
+    {
+        "ID": "80701",
+        "ID_MUNICIPIO": "807",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA LOS GUAYOS"
+    },
+    {
+        "ID": "80801",
+        "ID_MUNICIPIO": "808",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA MIRANDA"
+    },
+    {
+        "ID": "80901",
+        "ID_MUNICIPIO": "809",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA MONTALBAN"
+    },
+    {
+        "ID": "81001",
+        "ID_MUNICIPIO": "810",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA NAGUANAGUA"
+    },
+    {
+        "ID": "81101",
+        "ID_MUNICIPIO": "811",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA BARTOLOME SALOM"
+    },
+    {
+        "ID": "81102",
+        "ID_MUNICIPIO": "811",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "URBANA DEMOCRACIA"
+    },
+    {
+        "ID": "81103",
+        "ID_MUNICIPIO": "811",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "URBANA FRATERNIDAD"
+    },
+    {
+        "ID": "81104",
+        "ID_MUNICIPIO": "811",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "URBANA GOAIGOAZA"
+    },
+    {
+        "ID": "81105",
+        "ID_MUNICIPIO": "811",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "URBANA JUAN JOSE FLORES"
+    },
+    {
+        "ID": "81106",
+        "ID_MUNICIPIO": "811",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "URBANA UNION"
+    },
+    {
+        "ID": "81107",
+        "ID_MUNICIPIO": "811",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "NO URBANA BORBURATA"
+    },
+    {
+        "ID": "81108",
+        "ID_MUNICIPIO": "811",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "NO URBANA PATANEMO"
+    },
+    {
+        "ID": "81201",
+        "ID_MUNICIPIO": "812",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA SAN DIEGO"
+    },
+    {
+        "ID": "81301",
+        "ID_MUNICIPIO": "813",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA SAN JOAQUIN"
+    },
+    {
+        "ID": "81401",
+        "ID_MUNICIPIO": "814",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URBANA CANDELARIA"
+    },
+    {
+        "ID": "81402",
+        "ID_MUNICIPIO": "814",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "URBANA CATEDRAL"
+    },
+    {
+        "ID": "81403",
+        "ID_MUNICIPIO": "814",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "URBANA EL SOCORRO"
+    },
+    {
+        "ID": "81404",
+        "ID_MUNICIPIO": "814",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "URBANA MIGUEL PEÑA"
+    },
+    {
+        "ID": "81405",
+        "ID_MUNICIPIO": "814",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "URBANA RAFAEL URDANETA"
+    },
+    {
+        "ID": "81406",
+        "ID_MUNICIPIO": "814",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "URBANA SAN BLAS"
+    },
+    {
+        "ID": "81407",
+        "ID_MUNICIPIO": "814",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "URBANA SAN JOSE"
+    },
+    {
+        "ID": "81408",
+        "ID_MUNICIPIO": "814",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "URBANA SANTA ROSA"
+    },
+    {
+        "ID": "81409",
+        "ID_MUNICIPIO": "814",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "NO URBANA NEGRO PRIMERO"
+    },
+    {
+        "ID": "90101",
+        "ID_MUNICIPIO": "901",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "COJEDES"
+    },
+    {
+        "ID": "90102",
+        "ID_MUNICIPIO": "901",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "JUAN DE MATA SUAREZ"
+    },
+    {
+        "ID": "90201",
+        "ID_MUNICIPIO": "902",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "TINAQUILLO"
+    },
+    {
+        "ID": "90301",
+        "ID_MUNICIPIO": "903",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL BAUL"
+    },
+    {
+        "ID": "90302",
+        "ID_MUNICIPIO": "903",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SUCRE"
+    },
+    {
+        "ID": "90401",
+        "ID_MUNICIPIO": "904",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "MACAPO"
+    },
+    {
+        "ID": "90402",
+        "ID_MUNICIPIO": "904",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LA AGUADITA"
+    },
+    {
+        "ID": "90501",
+        "ID_MUNICIPIO": "905",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL PAO"
+    },
+    {
+        "ID": "90601",
+        "ID_MUNICIPIO": "906",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LIBERTAD DE COJEDES"
+    },
+    {
+        "ID": "90602",
+        "ID_MUNICIPIO": "906",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL AMPARO"
+    },
+    {
+        "ID": "90701",
+        "ID_MUNICIPIO": "907",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ROMULO GALLEGOS"
+    },
+    {
+        "ID": "90801",
+        "ID_MUNICIPIO": "908",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN CARLOS DE AUSTRIA"
+    },
+    {
+        "ID": "90802",
+        "ID_MUNICIPIO": "908",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "JUAN ANGEL BRAVO"
+    },
+    {
+        "ID": "90803",
+        "ID_MUNICIPIO": "908",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "MANUEL MANRIQUE"
+    },
+    {
+        "ID": "90901",
+        "ID_MUNICIPIO": "909",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "GENERAL EN JEFE JOSE LAURENCIO SILVA"
+    },
+    {
+        "ID": "100101",
+        "ID_MUNICIPIO": "1001",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CURIAPO"
+    },
+    {
+        "ID": "100102",
+        "ID_MUNICIPIO": "1001",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ALMIRANTE LUIS BRION"
+    },
+    {
+        "ID": "100103",
+        "ID_MUNICIPIO": "1001",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "FRANCISCO ANICETO LUGO"
+    },
+    {
+        "ID": "100104",
+        "ID_MUNICIPIO": "1001",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "MANUEL RENAUD"
+    },
+    {
+        "ID": "100105",
+        "ID_MUNICIPIO": "1001",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "PADRE BARRAL"
+    },
+    {
+        "ID": "100106",
+        "ID_MUNICIPIO": "1001",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "SANTOS DE ABELGAS"
+    },
+    {
+        "ID": "100201",
+        "ID_MUNICIPIO": "1002",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "IMATACA"
+    },
+    {
+        "ID": "100202",
+        "ID_MUNICIPIO": "1002",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CINCO  DE JULIO"
+    },
+    {
+        "ID": "100203",
+        "ID_MUNICIPIO": "1002",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "JUAN BAUTISTA ARISMENDI"
+    },
+    {
+        "ID": "100204",
+        "ID_MUNICIPIO": "1002",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "MANUEL PIAR"
+    },
+    {
+        "ID": "100205",
+        "ID_MUNICIPIO": "1002",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "ROMULO GALLEGOS"
+    },
+    {
+        "ID": "100301",
+        "ID_MUNICIPIO": "1003",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PEDERNALES"
+    },
+    {
+        "ID": "100302",
+        "ID_MUNICIPIO": "1003",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LUIS BELTRAN PRIETO FIGUEROA"
+    },
+    {
+        "ID": "100401",
+        "ID_MUNICIPIO": "1004",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN JOSE"
+    },
+    {
+        "ID": "100402",
+        "ID_MUNICIPIO": "1004",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "JOSE VIDAL MARCANO"
+    },
+    {
+        "ID": "100403",
+        "ID_MUNICIPIO": "1004",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "JUAN MILLAN"
+    },
+    {
+        "ID": "100404",
+        "ID_MUNICIPIO": "1004",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LEONARDO RUIZ PINEDA"
+    },
+    {
+        "ID": "100405",
+        "ID_MUNICIPIO": "1004",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "MARISCAL ANTONIO JOSE DE SUCRE"
+    },
+    {
+        "ID": "100406",
+        "ID_MUNICIPIO": "1004",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "MONSEÑOR ARGIMIRO GARCIA"
+    },
+    {
+        "ID": "100407",
+        "ID_MUNICIPIO": "1004",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "SAN RAFAEL"
+    },
+    {
+        "ID": "100408",
+        "ID_MUNICIPIO": "1004",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "VIRGEN DEL VALLE"
+    },
+    {
+        "ID": "110101",
+        "ID_MUNICIPIO": "1101",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN JUAN DE LOS CAYOS"
+    },
+    {
+        "ID": "110102",
+        "ID_MUNICIPIO": "1101",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CAPADARE"
+    },
+    {
+        "ID": "110103",
+        "ID_MUNICIPIO": "1101",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA PASTORA"
+    },
+    {
+        "ID": "110104",
+        "ID_MUNICIPIO": "1101",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LIBERTADOR"
+    },
+    {
+        "ID": "110201",
+        "ID_MUNICIPIO": "1102",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN LUIS"
+    },
+    {
+        "ID": "110202",
+        "ID_MUNICIPIO": "1102",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ARACUA"
+    },
+    {
+        "ID": "110203",
+        "ID_MUNICIPIO": "1102",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA PEÑA"
+    },
+    {
+        "ID": "110301",
+        "ID_MUNICIPIO": "1103",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPATARIDA"
+    },
+    {
+        "ID": "110302",
+        "ID_MUNICIPIO": "1103",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BARIRO"
+    },
+    {
+        "ID": "110303",
+        "ID_MUNICIPIO": "1103",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "BOROJO"
+    },
+    {
+        "ID": "110304",
+        "ID_MUNICIPIO": "1103",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "GUAJIRO"
+    },
+    {
+        "ID": "110305",
+        "ID_MUNICIPIO": "1103",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SEQUE"
+    },
+    {
+        "ID": "110306",
+        "ID_MUNICIPIO": "1103",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "ZAZARIDA"
+    },
+    {
+        "ID": "110501",
+        "ID_MUNICIPIO": "1105",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CARIRUBANA"
+    },
+    {
+        "ID": "110502",
+        "ID_MUNICIPIO": "1105",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NORTE"
+    },
+    {
+        "ID": "110503",
+        "ID_MUNICIPIO": "1105",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "PUNTA CARDON"
+    },
+    {
+        "ID": "110504",
+        "ID_MUNICIPIO": "1105",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SANTA ANA"
+    },
+    {
+        "ID": "110601",
+        "ID_MUNICIPIO": "1106",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LA VELA DE CORO"
+    },
+    {
+        "ID": "110602",
+        "ID_MUNICIPIO": "1106",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ACURIGUA"
+    },
+    {
+        "ID": "110603",
+        "ID_MUNICIPIO": "1106",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "GUAIBACOA"
+    },
+    {
+        "ID": "110604",
+        "ID_MUNICIPIO": "1106",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LAS CALDERAS"
+    },
+    {
+        "ID": "110605",
+        "ID_MUNICIPIO": "1106",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "MACORUCA"
+    },
+    {
+        "ID": "110801",
+        "ID_MUNICIPIO": "1108",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PEDREGAL"
+    },
+    {
+        "ID": "110802",
+        "ID_MUNICIPIO": "1108",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "AGUA CLARA"
+    },
+    {
+        "ID": "110803",
+        "ID_MUNICIPIO": "1108",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "AVARIA"
+    },
+    {
+        "ID": "110804",
+        "ID_MUNICIPIO": "1108",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "PIEDRA GRANDE"
+    },
+    {
+        "ID": "110805",
+        "ID_MUNICIPIO": "1108",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "PURURECHE"
+    },
+    {
+        "ID": "110901",
+        "ID_MUNICIPIO": "1109",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PUEBLO NUEVO"
+    },
+    {
+        "ID": "110902",
+        "ID_MUNICIPIO": "1109",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ADICORA"
+    },
+    {
+        "ID": "110903",
+        "ID_MUNICIPIO": "1109",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "BARAIVED"
+    },
+    {
+        "ID": "110904",
+        "ID_MUNICIPIO": "1109",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "BUENA VISTA"
+    },
+    {
+        "ID": "110905",
+        "ID_MUNICIPIO": "1109",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "JADACAQUIVA"
+    },
+    {
+        "ID": "110906",
+        "ID_MUNICIPIO": "1109",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "MORUY"
+    },
+    {
+        "ID": "110907",
+        "ID_MUNICIPIO": "1109",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "ADAURE"
+    },
+    {
+        "ID": "110908",
+        "ID_MUNICIPIO": "1109",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "EL HATO"
+    },
+    {
+        "ID": "110909",
+        "ID_MUNICIPIO": "1109",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "EL VINCULO"
+    },
+    {
+        "ID": "111001",
+        "ID_MUNICIPIO": "1110",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CHURUGUARA"
+    },
+    {
+        "ID": "111002",
+        "ID_MUNICIPIO": "1110",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "AGUA LARGA"
+    },
+    {
+        "ID": "111003",
+        "ID_MUNICIPIO": "1110",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "EL PAUJI"
+    },
+    {
+        "ID": "111004",
+        "ID_MUNICIPIO": "1110",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "INDEPENDENCIA"
+    },
+    {
+        "ID": "111005",
+        "ID_MUNICIPIO": "1110",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "MAPARARI"
+    },
+    {
+        "ID": "111101",
+        "ID_MUNICIPIO": "1111",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "JACURA"
+    },
+    {
+        "ID": "111102",
+        "ID_MUNICIPIO": "1111",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "AGUA LINDA"
+    },
+    {
+        "ID": "111103",
+        "ID_MUNICIPIO": "1111",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "ARAURIMA"
+    },
+    {
+        "ID": "111201",
+        "ID_MUNICIPIO": "1112",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LOS TAQUES"
+    },
+    {
+        "ID": "111202",
+        "ID_MUNICIPIO": "1112",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "JUDIBANA"
+    },
+    {
+        "ID": "111301",
+        "ID_MUNICIPIO": "1113",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "MENE DE MAUROA"
+    },
+    {
+        "ID": "111302",
+        "ID_MUNICIPIO": "1113",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CASIGUA"
+    },
+    {
+        "ID": "111303",
+        "ID_MUNICIPIO": "1113",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN FELIX"
+    },
+    {
+        "ID": "111401",
+        "ID_MUNICIPIO": "1114",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN ANTONIO"
+    },
+    {
+        "ID": "111402",
+        "ID_MUNICIPIO": "1114",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN GABRIEL"
+    },
+    {
+        "ID": "111403",
+        "ID_MUNICIPIO": "1114",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTA ANA"
+    },
+    {
+        "ID": "111404",
+        "ID_MUNICIPIO": "1114",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "GUZMAN GUILLERMO"
+    },
+    {
+        "ID": "111405",
+        "ID_MUNICIPIO": "1114",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "MITARE"
+    },
+    {
+        "ID": "111406",
+        "ID_MUNICIPIO": "1114",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "RIO SECO"
+    },
+    {
+        "ID": "111407",
+        "ID_MUNICIPIO": "1114",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "SABANETA"
+    },
+    {
+        "ID": "111501",
+        "ID_MUNICIPIO": "1115",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CHICHIRIVICHE"
+    },
+    {
+        "ID": "111502",
+        "ID_MUNICIPIO": "1115",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BOCA DE TOCUYO"
+    },
+    {
+        "ID": "111503",
+        "ID_MUNICIPIO": "1115",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "TOCUYO DE LA COSTA"
+    },
+    {
+        "ID": "111701",
+        "ID_MUNICIPIO": "1117",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CABURE"
+    },
+    {
+        "ID": "111702",
+        "ID_MUNICIPIO": "1117",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "COLINA"
+    },
+    {
+        "ID": "111703",
+        "ID_MUNICIPIO": "1117",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CURIMAGUA"
+    },
+    {
+        "ID": "111801",
+        "ID_MUNICIPIO": "1118",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PIRITU"
+    },
+    {
+        "ID": "111802",
+        "ID_MUNICIPIO": "1118",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN JOSE DE LA COSTA"
+    },
+    {
+        "ID": "112001",
+        "ID_MUNICIPIO": "1120",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "TUCACAS"
+    },
+    {
+        "ID": "112002",
+        "ID_MUNICIPIO": "1120",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BOCA DE AROA"
+    },
+    {
+        "ID": "112101",
+        "ID_MUNICIPIO": "1121",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SUCRE"
+    },
+    {
+        "ID": "112102",
+        "ID_MUNICIPIO": "1121",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "PECAYA"
+    },
+    {
+        "ID": "112201",
+        "ID_MUNICIPIO": "1122",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "TOCOPERO"
+    },
+    {
+        "ID": "112301",
+        "ID_MUNICIPIO": "1123",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SANTA CRUZ DE BUCARAL"
+    },
+    {
+        "ID": "112302",
+        "ID_MUNICIPIO": "1123",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL CHARAL"
+    },
+    {
+        "ID": "112303",
+        "ID_MUNICIPIO": "1123",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LAS VEGAS DEL TUY"
+    },
+    {
+        "ID": "112401",
+        "ID_MUNICIPIO": "1124",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URUMACO"
+    },
+    {
+        "ID": "112402",
+        "ID_MUNICIPIO": "1124",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BRUZUAL"
+    },
+    {
+        "ID": "112501",
+        "ID_MUNICIPIO": "1125",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PUERTO CUMAREBO"
+    },
+    {
+        "ID": "112502",
+        "ID_MUNICIPIO": "1125",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LA CIENEGA"
+    },
+    {
+        "ID": "112503",
+        "ID_MUNICIPIO": "1125",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA SOLEDAD"
+    },
+    {
+        "ID": "112504",
+        "ID_MUNICIPIO": "1125",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "PUEBLO CUMAREBO"
+    },
+    {
+        "ID": "112505",
+        "ID_MUNICIPIO": "1125",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "ZAZARIDA"
+    },
+    {
+        "ID": "120101",
+        "ID_MUNICIPIO": "1201",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL CAMAGUAN"
+    },
+    {
+        "ID": "120102",
+        "ID_MUNICIPIO": "1201",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "PUERTO MIRANDA"
+    },
+    {
+        "ID": "120103",
+        "ID_MUNICIPIO": "1201",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "UVERITO"
+    },
+    {
+        "ID": "120201",
+        "ID_MUNICIPIO": "1202",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CHAGUARAMAS"
+    },
+    {
+        "ID": "120301",
+        "ID_MUNICIPIO": "1203",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL SOCORRO"
+    },
+    {
+        "ID": "120401",
+        "ID_MUNICIPIO": "1204",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SAN GERONIMO GUAYABAL"
+    },
+    {
+        "ID": "120402",
+        "ID_MUNICIPIO": "1204",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CAZORLA"
+    },
+    {
+        "ID": "120501",
+        "ID_MUNICIPIO": "1205",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL VALLE DE LA PASCUA"
+    },
+    {
+        "ID": "120502",
+        "ID_MUNICIPIO": "1205",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ESPINO"
+    },
+    {
+        "ID": "120601",
+        "ID_MUNICIPIO": "1206",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL LAS MERCEDES"
+    },
+    {
+        "ID": "120602",
+        "ID_MUNICIPIO": "1206",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CABRUTA"
+    },
+    {
+        "ID": "120603",
+        "ID_MUNICIPIO": "1206",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTA RITA DE MANAPIRE"
+    },
+    {
+        "ID": "120701",
+        "ID_MUNICIPIO": "1207",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL EL SOMBRERO"
+    },
+    {
+        "ID": "120702",
+        "ID_MUNICIPIO": "1207",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SOSA"
+    },
+    {
+        "ID": "120801",
+        "ID_MUNICIPIO": "1208",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CALABOZO"
+    },
+    {
+        "ID": "120802",
+        "ID_MUNICIPIO": "1208",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL CALVARIO"
+    },
+    {
+        "ID": "120803",
+        "ID_MUNICIPIO": "1208",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "EL RASTRO"
+    },
+    {
+        "ID": "120804",
+        "ID_MUNICIPIO": "1208",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "GUARDATINAJAS"
+    },
+    {
+        "ID": "120901",
+        "ID_MUNICIPIO": "1209",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ALTAGRACIA DE ORITUCO"
+    },
+    {
+        "ID": "120902",
+        "ID_MUNICIPIO": "1209",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LEZAMA"
+    },
+    {
+        "ID": "120903",
+        "ID_MUNICIPIO": "1209",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LIBERTAD DE ORITUCO"
+    },
+    {
+        "ID": "120904",
+        "ID_MUNICIPIO": "1209",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "PASO REAL DE MACAIRA"
+    },
+    {
+        "ID": "120905",
+        "ID_MUNICIPIO": "1209",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN FRANCISCO DE MACAIRA"
+    },
+    {
+        "ID": "120906",
+        "ID_MUNICIPIO": "1209",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "SAN RAFAEL DE ORITUCO"
+    },
+    {
+        "ID": "120907",
+        "ID_MUNICIPIO": "1209",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "SOUBLETTE"
+    },
+    {
+        "ID": "121001",
+        "ID_MUNICIPIO": "1210",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ORTIZ"
+    },
+    {
+        "ID": "121002",
+        "ID_MUNICIPIO": "1210",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN FRANCISCO DE TIZNADOS"
+    },
+    {
+        "ID": "121003",
+        "ID_MUNICIPIO": "1210",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN JOSE DE TIZNADOS"
+    },
+    {
+        "ID": "121004",
+        "ID_MUNICIPIO": "1210",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN LORENZO DE TIZNADOS"
+    },
+    {
+        "ID": "121101",
+        "ID_MUNICIPIO": "1211",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL TUCUPIDO"
+    },
+    {
+        "ID": "121102",
+        "ID_MUNICIPIO": "1211",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN RAFAEL DE LAYA"
+    },
+    {
+        "ID": "121201",
+        "ID_MUNICIPIO": "1212",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN JUAN DE LOS MORROS"
+    },
+    {
+        "ID": "121202",
+        "ID_MUNICIPIO": "1212",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CANTAGALLO"
+    },
+    {
+        "ID": "121203",
+        "ID_MUNICIPIO": "1212",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "PARAPARA"
+    },
+    {
+        "ID": "121301",
+        "ID_MUNICIPIO": "1213",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN JOSE DE GUARIBE"
+    },
+    {
+        "ID": "121401",
+        "ID_MUNICIPIO": "1214",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SANTA MARIA DE IPIRE"
+    },
+    {
+        "ID": "121402",
+        "ID_MUNICIPIO": "1214",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ALTAMIRA"
+    },
+    {
+        "ID": "121501",
+        "ID_MUNICIPIO": "1215",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL ZARAZA"
+    },
+    {
+        "ID": "121502",
+        "ID_MUNICIPIO": "1215",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN JOSE DE UNARE"
+    },
+    {
+        "ID": "130101",
+        "ID_MUNICIPIO": "1301",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PIO TAMAYO"
+    },
+    {
+        "ID": "130102",
+        "ID_MUNICIPIO": "1301",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "QUEBRADA HONDA DE GUACHE"
+    },
+    {
+        "ID": "130103",
+        "ID_MUNICIPIO": "1301",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "YACAMBU"
+    },
+    {
+        "ID": "130201",
+        "ID_MUNICIPIO": "1302",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "FREITEZ"
+    },
+    {
+        "ID": "130202",
+        "ID_MUNICIPIO": "1302",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "JOSE MARIA BLANCO"
+    },
+    {
+        "ID": "130301",
+        "ID_MUNICIPIO": "1303",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CATEDRAL"
+    },
+    {
+        "ID": "130302",
+        "ID_MUNICIPIO": "1303",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CONCEPCION"
+    },
+    {
+        "ID": "130303",
+        "ID_MUNICIPIO": "1303",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "EL CUJI"
+    },
+    {
+        "ID": "130304",
+        "ID_MUNICIPIO": "1303",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "JUAN DE VILLEGAS"
+    },
+    {
+        "ID": "130305",
+        "ID_MUNICIPIO": "1303",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SANTA ROSA"
+    },
+    {
+        "ID": "130306",
+        "ID_MUNICIPIO": "1303",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "TAMACA"
+    },
+    {
+        "ID": "130307",
+        "ID_MUNICIPIO": "1303",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "UNION"
+    },
+    {
+        "ID": "130308",
+        "ID_MUNICIPIO": "1303",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "AGUEDO FELIPE ALVARADO"
+    },
+    {
+        "ID": "130309",
+        "ID_MUNICIPIO": "1303",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "BUENA VISTA"
+    },
+    {
+        "ID": "130310",
+        "ID_MUNICIPIO": "1303",
+        "ID_PARROQUIA": "10",
+        "PARROQUIA": "JUAREZ"
+    },
+    {
+        "ID": "130401",
+        "ID_MUNICIPIO": "1304",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "JUAN BAUTISTA RODRIGUEZ"
+    },
+    {
+        "ID": "130402",
+        "ID_MUNICIPIO": "1304",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CUARA"
+    },
+    {
+        "ID": "130403",
+        "ID_MUNICIPIO": "1304",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "DIEGO DE LOZADA"
+    },
+    {
+        "ID": "130404",
+        "ID_MUNICIPIO": "1304",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "PARAISO DE SAN JOSE"
+    },
+    {
+        "ID": "130405",
+        "ID_MUNICIPIO": "1304",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN MIGUEL"
+    },
+    {
+        "ID": "130406",
+        "ID_MUNICIPIO": "1304",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "TINTORERO"
+    },
+    {
+        "ID": "130407",
+        "ID_MUNICIPIO": "1304",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "JOSE BERNARDO DORANTE"
+    },
+    {
+        "ID": "130408",
+        "ID_MUNICIPIO": "1304",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "CORONEL MARIANO PERAZA"
+    },
+    {
+        "ID": "130501",
+        "ID_MUNICIPIO": "1305",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "BOLIVAR"
+    },
+    {
+        "ID": "130502",
+        "ID_MUNICIPIO": "1305",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANZOATEGUI"
+    },
+    {
+        "ID": "130503",
+        "ID_MUNICIPIO": "1305",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "GUARICO"
+    },
+    {
+        "ID": "130504",
+        "ID_MUNICIPIO": "1305",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "HILARIO LUNA Y LUNA"
+    },
+    {
+        "ID": "130505",
+        "ID_MUNICIPIO": "1305",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "HUMOCARO ALTO"
+    },
+    {
+        "ID": "130506",
+        "ID_MUNICIPIO": "1305",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "HUM0CARO BAJO"
+    },
+    {
+        "ID": "130507",
+        "ID_MUNICIPIO": "1305",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "LA CANDELARIA"
+    },
+    {
+        "ID": "130508",
+        "ID_MUNICIPIO": "1305",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "MORAN"
+    },
+    {
+        "ID": "130601",
+        "ID_MUNICIPIO": "1306",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CABUDARE"
+    },
+    {
+        "ID": "130602",
+        "ID_MUNICIPIO": "1306",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "JOSE GREGORIO BASTIDAS"
+    },
+    {
+        "ID": "130603",
+        "ID_MUNICIPIO": "1306",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "AGUA VIVA"
+    },
+    {
+        "ID": "130701",
+        "ID_MUNICIPIO": "1307",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SARARE"
+    },
+    {
+        "ID": "130702",
+        "ID_MUNICIPIO": "1307",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BURIA"
+    },
+    {
+        "ID": "130703",
+        "ID_MUNICIPIO": "1307",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "GUSTAVO VEGAS LEON"
+    },
+    {
+        "ID": "130801",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "TRINIDAD SAMUEL"
+    },
+    {
+        "ID": "130802",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANTONIO DIAZ"
+    },
+    {
+        "ID": "130803",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CAMACARO"
+    },
+    {
+        "ID": "130804",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "CASTAÑEDA"
+    },
+    {
+        "ID": "130805",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "CECILIO ZUBILLAGA"
+    },
+    {
+        "ID": "130806",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "CHIQUINQUIRA"
+    },
+    {
+        "ID": "130807",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "EL BLANCO"
+    },
+    {
+        "ID": "130808",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "ESPINOZA DE LOS MONTEROS"
+    },
+    {
+        "ID": "130809",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "LARA"
+    },
+    {
+        "ID": "130810",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "10",
+        "PARROQUIA": "LAS MERCEDES"
+    },
+    {
+        "ID": "130811",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "11",
+        "PARROQUIA": "MANUEL MORILLO"
+    },
+    {
+        "ID": "130812",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "12",
+        "PARROQUIA": "MONTAÑA VERDE"
+    },
+    {
+        "ID": "130813",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "13",
+        "PARROQUIA": "MONTES DE OCA"
+    },
+    {
+        "ID": "130814",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "14",
+        "PARROQUIA": "TORRES"
+    },
+    {
+        "ID": "130816",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "16",
+        "PARROQUIA": "REYES VARGAS"
+    },
+    {
+        "ID": "130817",
+        "ID_MUNICIPIO": "1308",
+        "ID_PARROQUIA": "17",
+        "PARROQUIA": "ALTAGRACIA"
+    },
+    {
+        "ID": "130901",
+        "ID_MUNICIPIO": "1309",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SIQUISIQUE"
+    },
+    {
+        "ID": "130902",
+        "ID_MUNICIPIO": "1309",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "MOROTURO"
+    },
+    {
+        "ID": "130903",
+        "ID_MUNICIPIO": "1309",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN MIGUEL"
+    },
+    {
+        "ID": "130904",
+        "ID_MUNICIPIO": "1309",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "XAGUAS"
+    },
+    {
+        "ID": "140101",
+        "ID_MUNICIPIO": "1401",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PRESIDENTE BETANCOURT"
+    },
+    {
+        "ID": "140102",
+        "ID_MUNICIPIO": "1401",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "PRESIDENTE PAEZ"
+    },
+    {
+        "ID": "140103",
+        "ID_MUNICIPIO": "1401",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "PRESIDENTE ROMULO GALLEGOS"
+    },
+    {
+        "ID": "140104",
+        "ID_MUNICIPIO": "1401",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "GABRIEL PICON GONZALEZ"
+    },
+    {
+        "ID": "140105",
+        "ID_MUNICIPIO": "1401",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "HECTOR AMABLE MORA"
+    },
+    {
+        "ID": "140106",
+        "ID_MUNICIPIO": "1401",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "JOSE NUCETE SARDI"
+    },
+    {
+        "ID": "140107",
+        "ID_MUNICIPIO": "1401",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "PULIDO MENDEZ"
+    },
+    {
+        "ID": "140301",
+        "ID_MUNICIPIO": "1403",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL ANTONIO PINTO SALINAS"
+    },
+    {
+        "ID": "140302",
+        "ID_MUNICIPIO": "1403",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "MESA BOLIVAR"
+    },
+    {
+        "ID": "140303",
+        "ID_MUNICIPIO": "1403",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "MESA DE LAS PALMAS"
+    },
+    {
+        "ID": "140401",
+        "ID_MUNICIPIO": "1404",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL ARICAGUA"
+    },
+    {
+        "ID": "140402",
+        "ID_MUNICIPIO": "1404",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN ANTONIO"
+    },
+    {
+        "ID": "140501",
+        "ID_MUNICIPIO": "1405",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL ARZOBISPO CHACON"
+    },
+    {
+        "ID": "140502",
+        "ID_MUNICIPIO": "1405",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CAPURI"
+    },
+    {
+        "ID": "140503",
+        "ID_MUNICIPIO": "1405",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CHACANTA"
+    },
+    {
+        "ID": "140504",
+        "ID_MUNICIPIO": "1405",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "EL MOLINO"
+    },
+    {
+        "ID": "140505",
+        "ID_MUNICIPIO": "1405",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "GUAIMARAL"
+    },
+    {
+        "ID": "140506",
+        "ID_MUNICIPIO": "1405",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "MUCUTUY"
+    },
+    {
+        "ID": "140507",
+        "ID_MUNICIPIO": "1405",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "MUCUCHACHI"
+    },
+    {
+        "ID": "140601",
+        "ID_MUNICIPIO": "1406",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "FERNANDEZ PEÑA"
+    },
+    {
+        "ID": "140602",
+        "ID_MUNICIPIO": "1406",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "MATRIZ"
+    },
+    {
+        "ID": "140603",
+        "ID_MUNICIPIO": "1406",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "MONTALBAN"
+    },
+    {
+        "ID": "140604",
+        "ID_MUNICIPIO": "1406",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "ACEQUIAS"
+    },
+    {
+        "ID": "140605",
+        "ID_MUNICIPIO": "1406",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "JAJI"
+    },
+    {
+        "ID": "140606",
+        "ID_MUNICIPIO": "1406",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "LA MESA"
+    },
+    {
+        "ID": "140607",
+        "ID_MUNICIPIO": "1406",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "SAN JOSE DEL SUR"
+    },
+    {
+        "ID": "140701",
+        "ID_MUNICIPIO": "1407",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL CARACCIOLO PARRA OLMEDO"
+    },
+    {
+        "ID": "140702",
+        "ID_MUNICIPIO": "1407",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "FLORENCIO  RAMIREZ"
+    },
+    {
+        "ID": "140801",
+        "ID_MUNICIPIO": "1408",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL CARDENAL QUINTERO"
+    },
+    {
+        "ID": "140802",
+        "ID_MUNICIPIO": "1408",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LAS PIEDRAS"
+    },
+    {
+        "ID": "140901",
+        "ID_MUNICIPIO": "1409",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL GUARAQUE"
+    },
+    {
+        "ID": "140902",
+        "ID_MUNICIPIO": "1409",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "MESA DE QUINTERO"
+    },
+    {
+        "ID": "140903",
+        "ID_MUNICIPIO": "1409",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "RIO NEGRO"
+    },
+    {
+        "ID": "141001",
+        "ID_MUNICIPIO": "1410",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL JULIO CESAR SALAS"
+    },
+    {
+        "ID": "141002",
+        "ID_MUNICIPIO": "1410",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "PALMIRA"
+    },
+    {
+        "ID": "141101",
+        "ID_MUNICIPIO": "1411",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL JUSTO BRICEÑO"
+    },
+    {
+        "ID": "141102",
+        "ID_MUNICIPIO": "1411",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN CRISTOBAL DE TORONDOY"
+    },
+    {
+        "ID": "141201",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ANTONIO SPINETTI DINI"
+    },
+    {
+        "ID": "141202",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ARIAS"
+    },
+    {
+        "ID": "141203",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CARACCIOLO PARRA PEREZ"
+    },
+    {
+        "ID": "141204",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "DOMINGO PEÑA"
+    },
+    {
+        "ID": "141205",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "EL LLANO"
+    },
+    {
+        "ID": "141206",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "GONZALO PICON FEBRES"
+    },
+    {
+        "ID": "141207",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "JACINTO PLAZA"
+    },
+    {
+        "ID": "141208",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "JUAN RODRIGUEZ SUAREZ"
+    },
+    {
+        "ID": "141209",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "LASSO DE LA VEGA"
+    },
+    {
+        "ID": "141210",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "10",
+        "PARROQUIA": "MARIANO PICON SALAS"
+    },
+    {
+        "ID": "141211",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "11",
+        "PARROQUIA": "MILLA"
+    },
+    {
+        "ID": "141212",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "12",
+        "PARROQUIA": "OSUNA RODRIGUEZ"
+    },
+    {
+        "ID": "141213",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "13",
+        "PARROQUIA": "SAGRARIO"
+    },
+    {
+        "ID": "141214",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "14",
+        "PARROQUIA": "EL MORRO"
+    },
+    {
+        "ID": "141215",
+        "ID_MUNICIPIO": "1412",
+        "ID_PARROQUIA": "15",
+        "PARROQUIA": "LOS NEVADOS"
+    },
+    {
+        "ID": "141301",
+        "ID_MUNICIPIO": "1413",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL MIRANDA"
+    },
+    {
+        "ID": "141303",
+        "ID_MUNICIPIO": "1413",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA VENTA"
+    },
+    {
+        "ID": "141304",
+        "ID_MUNICIPIO": "1413",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "PIÑANGO"
+    },
+    {
+        "ID": "141401",
+        "ID_MUNICIPIO": "1414",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL OBISPO RAMOS DE LORA"
+    },
+    {
+        "ID": "141402",
+        "ID_MUNICIPIO": "1414",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANDRES ELOY BLANCO"
+    },
+    {
+        "ID": "141403",
+        "ID_MUNICIPIO": "1414",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN RAFAEL DE ALCAZAR"
+    },
+    {
+        "ID": "141701",
+        "ID_MUNICIPIO": "1417",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL RANGEL"
+    },
+    {
+        "ID": "141702",
+        "ID_MUNICIPIO": "1417",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CACUTE"
+    },
+    {
+        "ID": "141703",
+        "ID_MUNICIPIO": "1417",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA TOMA"
+    },
+    {
+        "ID": "141704",
+        "ID_MUNICIPIO": "1417",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "MUCURUBA"
+    },
+    {
+        "ID": "141705",
+        "ID_MUNICIPIO": "1417",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN RAFAEL"
+    },
+    {
+        "ID": "141801",
+        "ID_MUNICIPIO": "1418",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL RIVAS DAVILA"
+    },
+    {
+        "ID": "141802",
+        "ID_MUNICIPIO": "1418",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "GERONIMO MALDONADO"
+    },
+    {
+        "ID": "142001",
+        "ID_MUNICIPIO": "1420",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SUCRE"
+    },
+    {
+        "ID": "142002",
+        "ID_MUNICIPIO": "1420",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CHIGUARA"
+    },
+    {
+        "ID": "142003",
+        "ID_MUNICIPIO": "1420",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "ESTANQUEZ"
+    },
+    {
+        "ID": "142004",
+        "ID_MUNICIPIO": "1420",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LA TRAMPA"
+    },
+    {
+        "ID": "142005",
+        "ID_MUNICIPIO": "1420",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "PUEBLO NUEVO DEL SUR"
+    },
+    {
+        "ID": "142006",
+        "ID_MUNICIPIO": "1420",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "SAN JUAN"
+    },
+    {
+        "ID": "142101",
+        "ID_MUNICIPIO": "1421",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL AMPARO"
+    },
+    {
+        "ID": "142102",
+        "ID_MUNICIPIO": "1421",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL LLANO"
+    },
+    {
+        "ID": "142103",
+        "ID_MUNICIPIO": "1421",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN FRANCISCO"
+    },
+    {
+        "ID": "142104",
+        "ID_MUNICIPIO": "1421",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "TOVAR"
+    },
+    {
+        "ID": "142201",
+        "ID_MUNICIPIO": "1422",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL TULIO FEBRES CORDERO"
+    },
+    {
+        "ID": "142202",
+        "ID_MUNICIPIO": "1422",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "MARIA DE LA CONCEPCION PALACIOS BLANCO"
+    },
+    {
+        "ID": "142203",
+        "ID_MUNICIPIO": "1422",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTA  APOLONIA"
+    },
+    {
+        "ID": "142301",
+        "ID_MUNICIPIO": "1423",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL ZEA"
+    },
+    {
+        "ID": "142302",
+        "ID_MUNICIPIO": "1423",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CAÑO EL TIGRE"
+    },
+    {
+        "ID": "150101",
+        "ID_MUNICIPIO": "1501",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAUCAGUA"
+    },
+    {
+        "ID": "150102",
+        "ID_MUNICIPIO": "1501",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ARAGUITA"
+    },
+    {
+        "ID": "150103",
+        "ID_MUNICIPIO": "1501",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "AREVALO GONZALEZ"
+    },
+    {
+        "ID": "150104",
+        "ID_MUNICIPIO": "1501",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "CAPAYA"
+    },
+    {
+        "ID": "150105",
+        "ID_MUNICIPIO": "1501",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "EL CAFE"
+    },
+    {
+        "ID": "150106",
+        "ID_MUNICIPIO": "1501",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "MARIZAPA"
+    },
+    {
+        "ID": "150107",
+        "ID_MUNICIPIO": "1501",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "PANAQUIRE"
+    },
+    {
+        "ID": "150108",
+        "ID_MUNICIPIO": "1501",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "RIBAS"
+    },
+    {
+        "ID": "150201",
+        "ID_MUNICIPIO": "1502",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN JOSE DE BARLOVENTO"
+    },
+    {
+        "ID": "150202",
+        "ID_MUNICIPIO": "1502",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CUMBO"
+    },
+    {
+        "ID": "150301",
+        "ID_MUNICIPIO": "1503",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "BARUTA"
+    },
+    {
+        "ID": "150302",
+        "ID_MUNICIPIO": "1503",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL CAFETAL"
+    },
+    {
+        "ID": "150303",
+        "ID_MUNICIPIO": "1503",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LAS MINAS DE BARUTA"
+    },
+    {
+        "ID": "150401",
+        "ID_MUNICIPIO": "1504",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "HIGUEROTE"
+    },
+    {
+        "ID": "150402",
+        "ID_MUNICIPIO": "1504",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CURIEPE"
+    },
+    {
+        "ID": "150403",
+        "ID_MUNICIPIO": "1504",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "TACARIGUA"
+    },
+    {
+        "ID": "150501",
+        "ID_MUNICIPIO": "1505",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "MAMPORAL"
+    },
+    {
+        "ID": "150601",
+        "ID_MUNICIPIO": "1506",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CARRIZAL"
+    },
+    {
+        "ID": "150701",
+        "ID_MUNICIPIO": "1507",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CHACAO"
+    },
+    {
+        "ID": "150801",
+        "ID_MUNICIPIO": "1508",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CHARALLAVE"
+    },
+    {
+        "ID": "150802",
+        "ID_MUNICIPIO": "1508",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LAS BRISAS"
+    },
+    {
+        "ID": "150901",
+        "ID_MUNICIPIO": "1509",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL HATILLO"
+    },
+    {
+        "ID": "151001",
+        "ID_MUNICIPIO": "1510",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LOS TEQUES"
+    },
+    {
+        "ID": "151002",
+        "ID_MUNICIPIO": "1510",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ALTAGRACIA DE LA MONTAÑA"
+    },
+    {
+        "ID": "151003",
+        "ID_MUNICIPIO": "1510",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CECILIO ACOSTA"
+    },
+    {
+        "ID": "151004",
+        "ID_MUNICIPIO": "1510",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "EL JARILLO"
+    },
+    {
+        "ID": "151005",
+        "ID_MUNICIPIO": "1510",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "PARACOTOS"
+    },
+    {
+        "ID": "151006",
+        "ID_MUNICIPIO": "1510",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "SAN PEDRO"
+    },
+    {
+        "ID": "151007",
+        "ID_MUNICIPIO": "1510",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "TACATA"
+    },
+    {
+        "ID": "151101",
+        "ID_MUNICIPIO": "1511",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SANTA TERESA DEL TUY"
+    },
+    {
+        "ID": "151102",
+        "ID_MUNICIPIO": "1511",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CARTANAL"
+    },
+    {
+        "ID": "151201",
+        "ID_MUNICIPIO": "1512",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "OCUMARE DEL TUY"
+    },
+    {
+        "ID": "151202",
+        "ID_MUNICIPIO": "1512",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LA DEMOCRACIA"
+    },
+    {
+        "ID": "151203",
+        "ID_MUNICIPIO": "1512",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTA BARBARA"
+    },
+    {
+        "ID": "151301",
+        "ID_MUNICIPIO": "1513",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN ANTONIO DE LOS ALTOS"
+    },
+    {
+        "ID": "151401",
+        "ID_MUNICIPIO": "1514",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "RIO CHICO"
+    },
+    {
+        "ID": "151402",
+        "ID_MUNICIPIO": "1514",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL GUAPO"
+    },
+    {
+        "ID": "151403",
+        "ID_MUNICIPIO": "1514",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "TACARIGUA DE LA LAGUNA"
+    },
+    {
+        "ID": "151404",
+        "ID_MUNICIPIO": "1514",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "PAPARO"
+    },
+    {
+        "ID": "151405",
+        "ID_MUNICIPIO": "1514",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN FERNANDO DEL GUAPO"
+    },
+    {
+        "ID": "151501",
+        "ID_MUNICIPIO": "1515",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SANTA LUCIA"
+    },
+    {
+        "ID": "151601",
+        "ID_MUNICIPIO": "1516",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CUPIRA"
+    },
+    {
+        "ID": "151602",
+        "ID_MUNICIPIO": "1516",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "MACHURUCUTO"
+    },
+    {
+        "ID": "151701",
+        "ID_MUNICIPIO": "1517",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "GUARENAS"
+    },
+    {
+        "ID": "151801",
+        "ID_MUNICIPIO": "1518",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN FRANCISCO DE YARE"
+    },
+    {
+        "ID": "151802",
+        "ID_MUNICIPIO": "1518",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN ANTONIO DE YARE"
+    },
+    {
+        "ID": "151901",
+        "ID_MUNICIPIO": "1519",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PETARE"
+    },
+    {
+        "ID": "151902",
+        "ID_MUNICIPIO": "1519",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CAUCAGUITA"
+    },
+    {
+        "ID": "151903",
+        "ID_MUNICIPIO": "1519",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "FILAS DE MARICHES"
+    },
+    {
+        "ID": "151904",
+        "ID_MUNICIPIO": "1519",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LA DOLORITA"
+    },
+    {
+        "ID": "151905",
+        "ID_MUNICIPIO": "1519",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "LEONCIO MARTINEZ"
+    },
+    {
+        "ID": "152001",
+        "ID_MUNICIPIO": "1520",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CUA"
+    },
+    {
+        "ID": "152002",
+        "ID_MUNICIPIO": "1520",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NUEVA CUA"
+    },
+    {
+        "ID": "152101",
+        "ID_MUNICIPIO": "1521",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "GUATIRE"
+    },
+    {
+        "ID": "152102",
+        "ID_MUNICIPIO": "1521",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BOLIVAR"
+    },
+    {
+        "ID": "160101",
+        "ID_MUNICIPIO": "1601",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL ACOSTA"
+    },
+    {
+        "ID": "160102",
+        "ID_MUNICIPIO": "1601",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN FRANCISCO"
+    },
+    {
+        "ID": "160401",
+        "ID_MUNICIPIO": "1604",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL CARIPE"
+    },
+    {
+        "ID": "160402",
+        "ID_MUNICIPIO": "1604",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL GUACHARO"
+    },
+    {
+        "ID": "160403",
+        "ID_MUNICIPIO": "1604",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA GUANOTA"
+    },
+    {
+        "ID": "160404",
+        "ID_MUNICIPIO": "1604",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SABANA DE PIEDRA"
+    },
+    {
+        "ID": "160405",
+        "ID_MUNICIPIO": "1604",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN AGUSTIN"
+    },
+    {
+        "ID": "160406",
+        "ID_MUNICIPIO": "1604",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "TERESEN"
+    },
+    {
+        "ID": "160501",
+        "ID_MUNICIPIO": "1605",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL CEDEÑO"
+    },
+    {
+        "ID": "160502",
+        "ID_MUNICIPIO": "1605",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "AREO"
+    },
+    {
+        "ID": "160503",
+        "ID_MUNICIPIO": "1605",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN FELIX"
+    },
+    {
+        "ID": "160504",
+        "ID_MUNICIPIO": "1605",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "VIENTO  FRESCO"
+    },
+    {
+        "ID": "160601",
+        "ID_MUNICIPIO": "1606",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL EZEQUIEL ZAMORA"
+    },
+    {
+        "ID": "160602",
+        "ID_MUNICIPIO": "1606",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL TEJERO"
+    },
+    {
+        "ID": "160701",
+        "ID_MUNICIPIO": "1607",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL LIBERTADOR"
+    },
+    {
+        "ID": "160702",
+        "ID_MUNICIPIO": "1607",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CHAGUARAMAS"
+    },
+    {
+        "ID": "160703",
+        "ID_MUNICIPIO": "1607",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA ALUHACAS"
+    },
+    {
+        "ID": "160704",
+        "ID_MUNICIPIO": "1607",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "TABASCA"
+    },
+    {
+        "ID": "160801",
+        "ID_MUNICIPIO": "1608",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL MATURIN"
+    },
+    {
+        "ID": "160802",
+        "ID_MUNICIPIO": "1608",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ALTO DE LOS GODOS"
+    },
+    {
+        "ID": "160803",
+        "ID_MUNICIPIO": "1608",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "BOQUERON"
+    },
+    {
+        "ID": "160804",
+        "ID_MUNICIPIO": "1608",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LAS COCUIZAS"
+    },
+    {
+        "ID": "160805",
+        "ID_MUNICIPIO": "1608",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN SIMON"
+    },
+    {
+        "ID": "160806",
+        "ID_MUNICIPIO": "1608",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "SANTA CRUZ"
+    },
+    {
+        "ID": "160807",
+        "ID_MUNICIPIO": "1608",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "EL COROZO"
+    },
+    {
+        "ID": "160808",
+        "ID_MUNICIPIO": "1608",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "EL FURRIAL"
+    },
+    {
+        "ID": "160809",
+        "ID_MUNICIPIO": "1608",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "JUSEPIN"
+    },
+    {
+        "ID": "160810",
+        "ID_MUNICIPIO": "1608",
+        "ID_PARROQUIA": "10",
+        "PARROQUIA": "LA  PICA"
+    },
+    {
+        "ID": "160811",
+        "ID_MUNICIPIO": "1608",
+        "ID_PARROQUIA": "11",
+        "PARROQUIA": "SAN VICENTE"
+    },
+    {
+        "ID": "160901",
+        "ID_MUNICIPIO": "1609",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL PIAR"
+    },
+    {
+        "ID": "160902",
+        "ID_MUNICIPIO": "1609",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "APARICIO"
+    },
+    {
+        "ID": "160903",
+        "ID_MUNICIPIO": "1609",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CHAGUARAMAL"
+    },
+    {
+        "ID": "160904",
+        "ID_MUNICIPIO": "1609",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "EL PINTO"
+    },
+    {
+        "ID": "160905",
+        "ID_MUNICIPIO": "1609",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "GUANAGUANA"
+    },
+    {
+        "ID": "160906",
+        "ID_MUNICIPIO": "1609",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "LA TOSCANA"
+    },
+    {
+        "ID": "160907",
+        "ID_MUNICIPIO": "1609",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "TAGUAYA"
+    },
+    {
+        "ID": "161001",
+        "ID_MUNICIPIO": "1610",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL PUNCERES"
+    },
+    {
+        "ID": "161002",
+        "ID_MUNICIPIO": "1610",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CACHIPO"
+    },
+    {
+        "ID": "161201",
+        "ID_MUNICIPIO": "1612",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SOTILLO"
+    },
+    {
+        "ID": "161202",
+        "ID_MUNICIPIO": "1612",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LOS BARRANCOS DE FAJARDO"
+    },
+    {
+        "ID": "170301",
+        "ID_MUNICIPIO": "1703",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL DIAZ"
+    },
+    {
+        "ID": "170302",
+        "ID_MUNICIPIO": "1703",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ZABALA"
+    },
+    {
+        "ID": "170401",
+        "ID_MUNICIPIO": "1704",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL GARCIA"
+    },
+    {
+        "ID": "170402",
+        "ID_MUNICIPIO": "1704",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "FRANCISCO FAJARDO"
+    },
+    {
+        "ID": "170501",
+        "ID_MUNICIPIO": "1705",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL GOMEZ"
+    },
+    {
+        "ID": "170502",
+        "ID_MUNICIPIO": "1705",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BOLIVAR"
+    },
+    {
+        "ID": "170503",
+        "ID_MUNICIPIO": "1705",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "GUEVARA"
+    },
+    {
+        "ID": "170504",
+        "ID_MUNICIPIO": "1705",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "MATASIETE"
+    },
+    {
+        "ID": "170505",
+        "ID_MUNICIPIO": "1705",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SUCRE"
+    },
+    {
+        "ID": "170601",
+        "ID_MUNICIPIO": "1706",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "AGUIRRE"
+    },
+    {
+        "ID": "170701",
+        "ID_MUNICIPIO": "1707",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL MARCANO"
+    },
+    {
+        "ID": "170702",
+        "ID_MUNICIPIO": "1707",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ADRIAN"
+    },
+    {
+        "ID": "170901",
+        "ID_MUNICIPIO": "1709",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL PENINSULA DE MACANAO"
+    },
+    {
+        "ID": "170902",
+        "ID_MUNICIPIO": "1709",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN FRANCISCO"
+    },
+    {
+        "ID": "171001",
+        "ID_MUNICIPIO": "1710",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL TUBORES"
+    },
+    {
+        "ID": "171002",
+        "ID_MUNICIPIO": "1710",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LOS BARALES"
+    },
+    {
+        "ID": "171101",
+        "ID_MUNICIPIO": "1711",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL VILLALBA"
+    },
+    {
+        "ID": "171102",
+        "ID_MUNICIPIO": "1711",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "VICENTE FUENTES"
+    },
+    {
+        "ID": "180201",
+        "ID_MUNICIPIO": "1802",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL ARAURE"
+    },
+    {
+        "ID": "180202",
+        "ID_MUNICIPIO": "1802",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "RÍO ACARIGUA"
+    },
+    {
+        "ID": "180301",
+        "ID_MUNICIPIO": "1803",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PÍRITU"
+    },
+    {
+        "ID": "180302",
+        "ID_MUNICIPIO": "1803",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "UVERAL"
+    },
+    {
+        "ID": "180401",
+        "ID_MUNICIPIO": "1804",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL GUANARE"
+    },
+    {
+        "ID": "180402",
+        "ID_MUNICIPIO": "1804",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CORDOBA"
+    },
+    {
+        "ID": "180403",
+        "ID_MUNICIPIO": "1804",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN JOSE DE LA MONTAÑA"
+    },
+    {
+        "ID": "180404",
+        "ID_MUNICIPIO": "1804",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN JUAN DE GUANAGUANARE"
+    },
+    {
+        "ID": "180405",
+        "ID_MUNICIPIO": "1804",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "VIRGEN DE LA COROMOTO"
+    },
+    {
+        "ID": "180501",
+        "ID_MUNICIPIO": "1805",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL GUANARITO"
+    },
+    {
+        "ID": "180502",
+        "ID_MUNICIPIO": "1805",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "TRINIDAD DE LA CAPILLA"
+    },
+    {
+        "ID": "180503",
+        "ID_MUNICIPIO": "1805",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "DIVINA PASTORA"
+    },
+    {
+        "ID": "180601",
+        "ID_MUNICIPIO": "1806",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL MONSEÑOR JOSE VICENTE DE UNDA"
+    },
+    {
+        "ID": "180602",
+        "ID_MUNICIPIO": "1806",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "PEÑA BLANCA"
+    },
+    {
+        "ID": "180701",
+        "ID_MUNICIPIO": "1807",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "MUNICIPIO CAPITAL OSPINO"
+    },
+    {
+        "ID": "180702",
+        "ID_MUNICIPIO": "1807",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "APARICION"
+    },
+    {
+        "ID": "180703",
+        "ID_MUNICIPIO": "1807",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA ESTACION"
+    },
+    {
+        "ID": "180801",
+        "ID_MUNICIPIO": "1808",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL PAEZ"
+    },
+    {
+        "ID": "180802",
+        "ID_MUNICIPIO": "1808",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "PAYARA"
+    },
+    {
+        "ID": "180803",
+        "ID_MUNICIPIO": "1808",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "PIMPINELA"
+    },
+    {
+        "ID": "180804",
+        "ID_MUNICIPIO": "1808",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "RAMON PERAZA"
+    },
+    {
+        "ID": "180901",
+        "ID_MUNICIPIO": "1809",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL PAPELON"
+    },
+    {
+        "ID": "180902",
+        "ID_MUNICIPIO": "1809",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CAÑO DELGADITO"
+    },
+    {
+        "ID": "181001",
+        "ID_MUNICIPIO": "1810",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SAN GENARO DE BOCONOITO"
+    },
+    {
+        "ID": "181002",
+        "ID_MUNICIPIO": "1810",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANTOLIN TOVAR"
+    },
+    {
+        "ID": "181101",
+        "ID_MUNICIPIO": "1811",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SAN RAFAEL DE ONOTO"
+    },
+    {
+        "ID": "181102",
+        "ID_MUNICIPIO": "1811",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SANTA FE"
+    },
+    {
+        "ID": "181103",
+        "ID_MUNICIPIO": "1811",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "THERMO MORLES"
+    },
+    {
+        "ID": "181201",
+        "ID_MUNICIPIO": "1812",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SANTA ROSALIA"
+    },
+    {
+        "ID": "181202",
+        "ID_MUNICIPIO": "1812",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "FLORIDA"
+    },
+    {
+        "ID": "181301",
+        "ID_MUNICIPIO": "1813",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SUCRE"
+    },
+    {
+        "ID": "181302",
+        "ID_MUNICIPIO": "1813",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CONCEPCION"
+    },
+    {
+        "ID": "181303",
+        "ID_MUNICIPIO": "1813",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN RAFAEL DE PALO ALZADO"
+    },
+    {
+        "ID": "181304",
+        "ID_MUNICIPIO": "1813",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "UVENCIO ANTONIO VELASQUEZ"
+    },
+    {
+        "ID": "181305",
+        "ID_MUNICIPIO": "1813",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN JOSE DE SAGUAZ"
+    },
+    {
+        "ID": "181306",
+        "ID_MUNICIPIO": "1813",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "VILLA ROSA"
+    },
+    {
+        "ID": "181401",
+        "ID_MUNICIPIO": "1814",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL TUREN"
+    },
+    {
+        "ID": "181402",
+        "ID_MUNICIPIO": "1814",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CANELONES"
+    },
+    {
+        "ID": "181403",
+        "ID_MUNICIPIO": "1814",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTA CRUZ"
+    },
+    {
+        "ID": "181404",
+        "ID_MUNICIPIO": "1814",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN ISIDRO LABRADOR"
+    },
+    {
+        "ID": "190101",
+        "ID_MUNICIPIO": "1901",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "MARIÑO"
+    },
+    {
+        "ID": "190102",
+        "ID_MUNICIPIO": "1901",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ROMULO GALLEGOS"
+    },
+    {
+        "ID": "190201",
+        "ID_MUNICIPIO": "1902",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN JOSE DE AEROCUAR"
+    },
+    {
+        "ID": "190202",
+        "ID_MUNICIPIO": "1902",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "TAVERA ACOSTA"
+    },
+    {
+        "ID": "190301",
+        "ID_MUNICIPIO": "1903",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "RIO CARIBE"
+    },
+    {
+        "ID": "190302",
+        "ID_MUNICIPIO": "1903",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANTONIO JOSE DE SUCRE"
+    },
+    {
+        "ID": "190303",
+        "ID_MUNICIPIO": "1903",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "EL MORRO DE PUERTO SANTO"
+    },
+    {
+        "ID": "190304",
+        "ID_MUNICIPIO": "1903",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "PUERTO SANTO"
+    },
+    {
+        "ID": "190305",
+        "ID_MUNICIPIO": "1903",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN JUAN DE LAS GALDONAS"
+    },
+    {
+        "ID": "190401",
+        "ID_MUNICIPIO": "1904",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL PILAR"
+    },
+    {
+        "ID": "190402",
+        "ID_MUNICIPIO": "1904",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL RINCON"
+    },
+    {
+        "ID": "190403",
+        "ID_MUNICIPIO": "1904",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "GENERAL FRANCISCO ANTONIO VASQUEZ"
+    },
+    {
+        "ID": "190404",
+        "ID_MUNICIPIO": "1904",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "GUARAUNOS"
+    },
+    {
+        "ID": "190405",
+        "ID_MUNICIPIO": "1904",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "TUNAPUCITO"
+    },
+    {
+        "ID": "190406",
+        "ID_MUNICIPIO": "1904",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "UNION"
+    },
+    {
+        "ID": "190501",
+        "ID_MUNICIPIO": "1905",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "BOLIVAR"
+    },
+    {
+        "ID": "190502",
+        "ID_MUNICIPIO": "1905",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "MACARAPANA"
+    },
+    {
+        "ID": "190503",
+        "ID_MUNICIPIO": "1905",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTA CATALINA"
+    },
+    {
+        "ID": "190504",
+        "ID_MUNICIPIO": "1905",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SANTA ROSA"
+    },
+    {
+        "ID": "190505",
+        "ID_MUNICIPIO": "1905",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SANTA TERESA"
+    },
+    {
+        "ID": "190701",
+        "ID_MUNICIPIO": "1907",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "YAGUARAPARO"
+    },
+    {
+        "ID": "190702",
+        "ID_MUNICIPIO": "1907",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL PAUJIL"
+    },
+    {
+        "ID": "190703",
+        "ID_MUNICIPIO": "1907",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LIBERTAD"
+    },
+    {
+        "ID": "190801",
+        "ID_MUNICIPIO": "1908",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ARAYA"
+    },
+    {
+        "ID": "190802",
+        "ID_MUNICIPIO": "1908",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CHACOPATA"
+    },
+    {
+        "ID": "190803",
+        "ID_MUNICIPIO": "1908",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "MANICUARE"
+    },
+    {
+        "ID": "190901",
+        "ID_MUNICIPIO": "1909",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "TUNAPUY"
+    },
+    {
+        "ID": "190902",
+        "ID_MUNICIPIO": "1909",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CAMPO ELIAS"
+    },
+    {
+        "ID": "191001",
+        "ID_MUNICIPIO": "1910",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "IRAPA"
+    },
+    {
+        "ID": "191002",
+        "ID_MUNICIPIO": "1910",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CAMPO CLARO"
+    },
+    {
+        "ID": "191003",
+        "ID_MUNICIPIO": "1910",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "MARABAL"
+    },
+    {
+        "ID": "191004",
+        "ID_MUNICIPIO": "1910",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN ANTONIO DE IRAPA"
+    },
+    {
+        "ID": "191005",
+        "ID_MUNICIPIO": "1910",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SORO"
+    },
+    {
+        "ID": "191201",
+        "ID_MUNICIPIO": "1912",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CUMANACOA"
+    },
+    {
+        "ID": "191202",
+        "ID_MUNICIPIO": "1912",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ARENAS"
+    },
+    {
+        "ID": "191203",
+        "ID_MUNICIPIO": "1912",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "ARICAGUA"
+    },
+    {
+        "ID": "191204",
+        "ID_MUNICIPIO": "1912",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "COCOLLAR"
+    },
+    {
+        "ID": "191205",
+        "ID_MUNICIPIO": "1912",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN FERNANDO"
+    },
+    {
+        "ID": "191206",
+        "ID_MUNICIPIO": "1912",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "SAN LORENZO"
+    },
+    {
+        "ID": "191301",
+        "ID_MUNICIPIO": "1913",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CARIACO"
+    },
+    {
+        "ID": "191302",
+        "ID_MUNICIPIO": "1913",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CATUARO"
+    },
+    {
+        "ID": "191303",
+        "ID_MUNICIPIO": "1913",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "RENDON"
+    },
+    {
+        "ID": "191304",
+        "ID_MUNICIPIO": "1913",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SANTA CRUZ"
+    },
+    {
+        "ID": "191305",
+        "ID_MUNICIPIO": "1913",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SANTA MARIA"
+    },
+    {
+        "ID": "191401",
+        "ID_MUNICIPIO": "1914",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ALTAGRACIA"
+    },
+    {
+        "ID": "191402",
+        "ID_MUNICIPIO": "1914",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "AYACUCHO"
+    },
+    {
+        "ID": "191403",
+        "ID_MUNICIPIO": "1914",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTA INES"
+    },
+    {
+        "ID": "191404",
+        "ID_MUNICIPIO": "1914",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "VALENTIN VALIENTE"
+    },
+    {
+        "ID": "191405",
+        "ID_MUNICIPIO": "1914",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN JUAN"
+    },
+    {
+        "ID": "191406",
+        "ID_MUNICIPIO": "1914",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "RAUL LEONI"
+    },
+    {
+        "ID": "191407",
+        "ID_MUNICIPIO": "1914",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "SANTA FE"
+    },
+    {
+        "ID": "191501",
+        "ID_MUNICIPIO": "1915",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "GUIRIA"
+    },
+    {
+        "ID": "191502",
+        "ID_MUNICIPIO": "1915",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BIDEAU"
+    },
+    {
+        "ID": "191503",
+        "ID_MUNICIPIO": "1915",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CRISTOBAL COLON"
+    },
+    {
+        "ID": "191504",
+        "ID_MUNICIPIO": "1915",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "PUNTA DE PIEDRA"
+    },
+    {
+        "ID": "200301",
+        "ID_MUNICIPIO": "2003",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "AYACUCHO"
+    },
+    {
+        "ID": "200302",
+        "ID_MUNICIPIO": "2003",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "RIVAS BERTI"
+    },
+    {
+        "ID": "200303",
+        "ID_MUNICIPIO": "2003",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN PEDRO DEL RIO"
+    },
+    {
+        "ID": "200401",
+        "ID_MUNICIPIO": "2004",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL BOLIVAR"
+    },
+    {
+        "ID": "200402",
+        "ID_MUNICIPIO": "2004",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL PALOTAL"
+    },
+    {
+        "ID": "200403",
+        "ID_MUNICIPIO": "2004",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "GENERAL JUAN VICENTE GOMEZ"
+    },
+    {
+        "ID": "200404",
+        "ID_MUNICIPIO": "2004",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "ISAIAS MEDINA ANGARITA"
+    },
+    {
+        "ID": "200501",
+        "ID_MUNICIPIO": "2005",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CARDENAS"
+    },
+    {
+        "ID": "200502",
+        "ID_MUNICIPIO": "2005",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "AMENODORO RANGEL LAMUS"
+    },
+    {
+        "ID": "200503",
+        "ID_MUNICIPIO": "2005",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA FLORIDA"
+    },
+    {
+        "ID": "200701",
+        "ID_MUNICIPIO": "2007",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "FERNANDEZ FEO"
+    },
+    {
+        "ID": "200702",
+        "ID_MUNICIPIO": "2007",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ALBERTO ADRIANI"
+    },
+    {
+        "ID": "200703",
+        "ID_MUNICIPIO": "2007",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTO DOMINGO"
+    },
+    {
+        "ID": "200901",
+        "ID_MUNICIPIO": "2009",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "GARCIA DE HEVIA"
+    },
+    {
+        "ID": "200902",
+        "ID_MUNICIPIO": "2009",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BOCA DE GRITA"
+    },
+    {
+        "ID": "200903",
+        "ID_MUNICIPIO": "2009",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "JOSE ANTONIO PAEZ"
+    },
+    {
+        "ID": "201101",
+        "ID_MUNICIPIO": "2011",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "INDEPENDENCIA"
+    },
+    {
+        "ID": "201102",
+        "ID_MUNICIPIO": "2011",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "JUAN GERMAN ROSCIO"
+    },
+    {
+        "ID": "201103",
+        "ID_MUNICIPIO": "2011",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "ROMAN CARDENAS"
+    },
+    {
+        "ID": "201201",
+        "ID_MUNICIPIO": "2012",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "JAUREGUI"
+    },
+    {
+        "ID": "201202",
+        "ID_MUNICIPIO": "2012",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EMILIO CONSTANTINO GUERRERO"
+    },
+    {
+        "ID": "201203",
+        "ID_MUNICIPIO": "2012",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "MONSEÑOR MIGUEL ANTONIO SALAS"
+    },
+    {
+        "ID": "201401",
+        "ID_MUNICIPIO": "2014",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "JUNIN"
+    },
+    {
+        "ID": "201402",
+        "ID_MUNICIPIO": "2014",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LA PETROLEA"
+    },
+    {
+        "ID": "201403",
+        "ID_MUNICIPIO": "2014",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "QUINIMARI"
+    },
+    {
+        "ID": "201404",
+        "ID_MUNICIPIO": "2014",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "BRAMON"
+    },
+    {
+        "ID": "201501",
+        "ID_MUNICIPIO": "2015",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LIBERTAD"
+    },
+    {
+        "ID": "201502",
+        "ID_MUNICIPIO": "2015",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CIPRIANO CASTRO"
+    },
+    {
+        "ID": "201503",
+        "ID_MUNICIPIO": "2015",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "MANUEL FELIPE RUGELES"
+    },
+    {
+        "ID": "201601",
+        "ID_MUNICIPIO": "2016",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LIBERTADOR"
+    },
+    {
+        "ID": "201602",
+        "ID_MUNICIPIO": "2016",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EMETERIO OCHOA"
+    },
+    {
+        "ID": "201603",
+        "ID_MUNICIPIO": "2016",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "DORADAS"
+    },
+    {
+        "ID": "201604",
+        "ID_MUNICIPIO": "2016",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN JOAQUIN DE NAVAY"
+    },
+    {
+        "ID": "201701",
+        "ID_MUNICIPIO": "2017",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LOBATERA"
+    },
+    {
+        "ID": "201702",
+        "ID_MUNICIPIO": "2017",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CONSTITUCION"
+    },
+    {
+        "ID": "201901",
+        "ID_MUNICIPIO": "2019",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PANAMERICANO"
+    },
+    {
+        "ID": "201902",
+        "ID_MUNICIPIO": "2019",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LA PALMITA"
+    },
+    {
+        "ID": "202001",
+        "ID_MUNICIPIO": "2020",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PEDRO MARIA UREÑA"
+    },
+    {
+        "ID": "202002",
+        "ID_MUNICIPIO": "2020",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "NUEVA ARCADIA"
+    },
+    {
+        "ID": "202201",
+        "ID_MUNICIPIO": "2022",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAMUEL DARIO MALDONADO"
+    },
+    {
+        "ID": "202202",
+        "ID_MUNICIPIO": "2022",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BOCONO"
+    },
+    {
+        "ID": "202203",
+        "ID_MUNICIPIO": "2022",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "HERNANDEZ"
+    },
+    {
+        "ID": "202301",
+        "ID_MUNICIPIO": "2023",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LA CONCORDIA"
+    },
+    {
+        "ID": "202302",
+        "ID_MUNICIPIO": "2023",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "PEDRO MARIA MORANTES"
+    },
+    {
+        "ID": "202303",
+        "ID_MUNICIPIO": "2023",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN JUAN BAUTISTA"
+    },
+    {
+        "ID": "202304",
+        "ID_MUNICIPIO": "2023",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN SEBASTIAN"
+    },
+    {
+        "ID": "202305",
+        "ID_MUNICIPIO": "2023",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "Dr. FRANCISCO ROMERO LOBO"
+    },
+    {
+        "ID": "202601",
+        "ID_MUNICIPIO": "2026",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SUCRE"
+    },
+    {
+        "ID": "202602",
+        "ID_MUNICIPIO": "2026",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ELEAZAR LOPEZ CONTRERAS"
+    },
+    {
+        "ID": "202603",
+        "ID_MUNICIPIO": "2026",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN PABLO"
+    },
+    {
+        "ID": "202801",
+        "ID_MUNICIPIO": "2028",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "URIBANTE"
+    },
+    {
+        "ID": "202802",
+        "ID_MUNICIPIO": "2028",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CARDENAS"
+    },
+    {
+        "ID": "202803",
+        "ID_MUNICIPIO": "2028",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "JUAN PABLO PEÑALOZA"
+    },
+    {
+        "ID": "202804",
+        "ID_MUNICIPIO": "2028",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "POTOSI"
+    },
+    {
+        "ID": "210101",
+        "ID_MUNICIPIO": "2101",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SANTA ISABEL"
+    },
+    {
+        "ID": "210102",
+        "ID_MUNICIPIO": "2101",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ARAGUANEY"
+    },
+    {
+        "ID": "210103",
+        "ID_MUNICIPIO": "2101",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "EL JAGUITO"
+    },
+    {
+        "ID": "210104",
+        "ID_MUNICIPIO": "2101",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LA ESPERANZA"
+    },
+    {
+        "ID": "210201",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "BOCONO"
+    },
+    {
+        "ID": "210202",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL CARMEN"
+    },
+    {
+        "ID": "210203",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "MOSQUEY"
+    },
+    {
+        "ID": "210204",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "AYACUCHO"
+    },
+    {
+        "ID": "210205",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "BURBUSAY"
+    },
+    {
+        "ID": "210206",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "GENERAL RIVAS"
+    },
+    {
+        "ID": "210207",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "GUARAMACAL"
+    },
+    {
+        "ID": "210208",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "LA VEGA DE GUARAMACAL"
+    },
+    {
+        "ID": "210209",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "MONSEÑOR JAUREGUI"
+    },
+    {
+        "ID": "210210",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "10",
+        "PARROQUIA": "RAFAEL RANGEL"
+    },
+    {
+        "ID": "210211",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "11",
+        "PARROQUIA": "SAN MIGUEL"
+    },
+    {
+        "ID": "210212",
+        "ID_MUNICIPIO": "2102",
+        "ID_PARROQUIA": "12",
+        "PARROQUIA": "SAN JOSE"
+    },
+    {
+        "ID": "210301",
+        "ID_MUNICIPIO": "2103",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SABANA GRANDE"
+    },
+    {
+        "ID": "210302",
+        "ID_MUNICIPIO": "2103",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CHEREGUE"
+    },
+    {
+        "ID": "210303",
+        "ID_MUNICIPIO": "2103",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "GRANADOS"
+    },
+    {
+        "ID": "210401",
+        "ID_MUNICIPIO": "2104",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CHEJENDE"
+    },
+    {
+        "ID": "210402",
+        "ID_MUNICIPIO": "2104",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ARNOLDO GABALDON"
+    },
+    {
+        "ID": "210403",
+        "ID_MUNICIPIO": "2104",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "BOLIVIA"
+    },
+    {
+        "ID": "210404",
+        "ID_MUNICIPIO": "2104",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "CARRILLO"
+    },
+    {
+        "ID": "210405",
+        "ID_MUNICIPIO": "2104",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "CEGARRA"
+    },
+    {
+        "ID": "210406",
+        "ID_MUNICIPIO": "2104",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "MANUEL SALVADOR ULLOA"
+    },
+    {
+        "ID": "210407",
+        "ID_MUNICIPIO": "2104",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "SAN JOSE"
+    },
+    {
+        "ID": "210501",
+        "ID_MUNICIPIO": "2105",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CARACHE"
+    },
+    {
+        "ID": "210502",
+        "ID_MUNICIPIO": "2105",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CUICAS"
+    },
+    {
+        "ID": "210503",
+        "ID_MUNICIPIO": "2105",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA CONCEPCION"
+    },
+    {
+        "ID": "210504",
+        "ID_MUNICIPIO": "2105",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "PANAMERICANA"
+    },
+    {
+        "ID": "210505",
+        "ID_MUNICIPIO": "2105",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SANTA CRUZ"
+    },
+    {
+        "ID": "210601",
+        "ID_MUNICIPIO": "2106",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ESCUQUE"
+    },
+    {
+        "ID": "210602",
+        "ID_MUNICIPIO": "2106",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LA UNION"
+    },
+    {
+        "ID": "210603",
+        "ID_MUNICIPIO": "2106",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SABANA LIBRE"
+    },
+    {
+        "ID": "210604",
+        "ID_MUNICIPIO": "2106",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SANTA RITA"
+    },
+    {
+        "ID": "210701",
+        "ID_MUNICIPIO": "2107",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL SOCORRO"
+    },
+    {
+        "ID": "210702",
+        "ID_MUNICIPIO": "2107",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANTONIO JOSE DE SUCRE"
+    },
+    {
+        "ID": "210703",
+        "ID_MUNICIPIO": "2107",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LOS CAPRICHOS"
+    },
+    {
+        "ID": "210801",
+        "ID_MUNICIPIO": "2108",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAMPO ELIAS"
+    },
+    {
+        "ID": "210802",
+        "ID_MUNICIPIO": "2108",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ARNOLDO GABALDON"
+    },
+    {
+        "ID": "210901",
+        "ID_MUNICIPIO": "2109",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SANTA APOLONIA"
+    },
+    {
+        "ID": "210902",
+        "ID_MUNICIPIO": "2109",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL PROGRESO"
+    },
+    {
+        "ID": "210903",
+        "ID_MUNICIPIO": "2109",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA CEIBA"
+    },
+    {
+        "ID": "210904",
+        "ID_MUNICIPIO": "2109",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "TRES DE FEBRERO"
+    },
+    {
+        "ID": "211001",
+        "ID_MUNICIPIO": "2110",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL DIVIDIVE"
+    },
+    {
+        "ID": "211002",
+        "ID_MUNICIPIO": "2110",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "AGUA SANTA"
+    },
+    {
+        "ID": "211003",
+        "ID_MUNICIPIO": "2110",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "AGUA CALIENTE"
+    },
+    {
+        "ID": "211004",
+        "ID_MUNICIPIO": "2110",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "EL CENIZO"
+    },
+    {
+        "ID": "211005",
+        "ID_MUNICIPIO": "2110",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "VALERITA"
+    },
+    {
+        "ID": "211101",
+        "ID_MUNICIPIO": "2111",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "MONTE CARMELO"
+    },
+    {
+        "ID": "211102",
+        "ID_MUNICIPIO": "2111",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BUENA VISTA"
+    },
+    {
+        "ID": "211103",
+        "ID_MUNICIPIO": "2111",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTA MARIA DEL HORCON"
+    },
+    {
+        "ID": "211201",
+        "ID_MUNICIPIO": "2112",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "MOTATAN"
+    },
+    {
+        "ID": "211202",
+        "ID_MUNICIPIO": "2112",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL BAÑO"
+    },
+    {
+        "ID": "211203",
+        "ID_MUNICIPIO": "2112",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "JALISCO"
+    },
+    {
+        "ID": "211301",
+        "ID_MUNICIPIO": "2113",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PAMPAN"
+    },
+    {
+        "ID": "211302",
+        "ID_MUNICIPIO": "2113",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "FLOR DE PATRIA"
+    },
+    {
+        "ID": "211303",
+        "ID_MUNICIPIO": "2113",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LA PAZ"
+    },
+    {
+        "ID": "211304",
+        "ID_MUNICIPIO": "2113",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SANTA ANA"
+    },
+    {
+        "ID": "211401",
+        "ID_MUNICIPIO": "2114",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "PAMPANITO"
+    },
+    {
+        "ID": "211402",
+        "ID_MUNICIPIO": "2114",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LA CONCEPCION"
+    },
+    {
+        "ID": "211403",
+        "ID_MUNICIPIO": "2114",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "PAMPANITO II"
+    },
+    {
+        "ID": "211501",
+        "ID_MUNICIPIO": "2115",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "BETIJOQUE"
+    },
+    {
+        "ID": "211502",
+        "ID_MUNICIPIO": "2115",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LA PUEBLITA"
+    },
+    {
+        "ID": "211503",
+        "ID_MUNICIPIO": "2115",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LOS CEDROS"
+    },
+    {
+        "ID": "211504",
+        "ID_MUNICIPIO": "2115",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "JOSE GREGORIO HERNANDEZ"
+    },
+    {
+        "ID": "211601",
+        "ID_MUNICIPIO": "2116",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CARVAJAL"
+    },
+    {
+        "ID": "211602",
+        "ID_MUNICIPIO": "2116",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANTONIO NICOLAS BRICEÑO"
+    },
+    {
+        "ID": "211603",
+        "ID_MUNICIPIO": "2116",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CAMPO ALEGRE"
+    },
+    {
+        "ID": "211604",
+        "ID_MUNICIPIO": "2116",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "JOSE LEONARDO SUAREZ"
+    },
+    {
+        "ID": "211701",
+        "ID_MUNICIPIO": "2117",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SABANA DE MENDOZA"
+    },
+    {
+        "ID": "211702",
+        "ID_MUNICIPIO": "2117",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL PARAISO"
+    },
+    {
+        "ID": "211703",
+        "ID_MUNICIPIO": "2117",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "JUNIN"
+    },
+    {
+        "ID": "211704",
+        "ID_MUNICIPIO": "2117",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "VALMORE RODRIGUEZ"
+    },
+    {
+        "ID": "211801",
+        "ID_MUNICIPIO": "2118",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ANDRES LINARES"
+    },
+    {
+        "ID": "211802",
+        "ID_MUNICIPIO": "2118",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CHIQUINQUIRA"
+    },
+    {
+        "ID": "211803",
+        "ID_MUNICIPIO": "2118",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CRISTOBAL MENDOZA"
+    },
+    {
+        "ID": "211804",
+        "ID_MUNICIPIO": "2118",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "CRUZ CARRILLO"
+    },
+    {
+        "ID": "211805",
+        "ID_MUNICIPIO": "2118",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "MATRIZ"
+    },
+    {
+        "ID": "211806",
+        "ID_MUNICIPIO": "2118",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "MONSEÑOR CARRILLO"
+    },
+    {
+        "ID": "211807",
+        "ID_MUNICIPIO": "2118",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "TRES ESQUINAS"
+    },
+    {
+        "ID": "211901",
+        "ID_MUNICIPIO": "2119",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LA QUEBRADA"
+    },
+    {
+        "ID": "211902",
+        "ID_MUNICIPIO": "2119",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CABIMBU"
+    },
+    {
+        "ID": "211903",
+        "ID_MUNICIPIO": "2119",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "JAJO"
+    },
+    {
+        "ID": "211904",
+        "ID_MUNICIPIO": "2119",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LA MESA"
+    },
+    {
+        "ID": "211905",
+        "ID_MUNICIPIO": "2119",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SANTIAGO"
+    },
+    {
+        "ID": "211906",
+        "ID_MUNICIPIO": "2119",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "TUÑAME"
+    },
+    {
+        "ID": "212001",
+        "ID_MUNICIPIO": "2120",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "JUAN IGNACIO MONTILLA"
+    },
+    {
+        "ID": "212002",
+        "ID_MUNICIPIO": "2120",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BEATRIZ"
+    },
+    {
+        "ID": "212003",
+        "ID_MUNICIPIO": "2120",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "MERCEDES DIAZ"
+    },
+    {
+        "ID": "212004",
+        "ID_MUNICIPIO": "2120",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN LUIS"
+    },
+    {
+        "ID": "212005",
+        "ID_MUNICIPIO": "2120",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "LA PUERTA"
+    },
+    {
+        "ID": "212006",
+        "ID_MUNICIPIO": "2120",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "MENDOZA"
+    },
+    {
+        "ID": "220301",
+        "ID_MUNICIPIO": "2203",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL BRUZUAL"
+    },
+    {
+        "ID": "220302",
+        "ID_MUNICIPIO": "2203",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CAMPO ELIAS"
+    },
+    {
+        "ID": "220901",
+        "ID_MUNICIPIO": "2209",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL NIRGUA"
+    },
+    {
+        "ID": "220902",
+        "ID_MUNICIPIO": "2209",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SALOM"
+    },
+    {
+        "ID": "220903",
+        "ID_MUNICIPIO": "2209",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "TEMERLA"
+    },
+    {
+        "ID": "221001",
+        "ID_MUNICIPIO": "2210",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "YARITAGUA"
+    },
+    {
+        "ID": "221002",
+        "ID_MUNICIPIO": "2210",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "SAN ANDRES"
+    },
+    {
+        "ID": "221101",
+        "ID_MUNICIPIO": "2211",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL SAN FELIPE"
+    },
+    {
+        "ID": "221102",
+        "ID_MUNICIPIO": "2211",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ALBARICO"
+    },
+    {
+        "ID": "221103",
+        "ID_MUNICIPIO": "2211",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SAN JAVIER"
+    },
+    {
+        "ID": "221401",
+        "ID_MUNICIPIO": "2214",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CAPITAL VEROES"
+    },
+    {
+        "ID": "221402",
+        "ID_MUNICIPIO": "2214",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL GUAYABO"
+    },
+    {
+        "ID": "230101",
+        "ID_MUNICIPIO": "2301",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ISLA DE TOAS"
+    },
+    {
+        "ID": "230102",
+        "ID_MUNICIPIO": "2301",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "MONAGAS"
+    },
+    {
+        "ID": "230201",
+        "ID_MUNICIPIO": "2302",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN TIMOTEO"
+    },
+    {
+        "ID": "230202",
+        "ID_MUNICIPIO": "2302",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "GENERAL URDANETA"
+    },
+    {
+        "ID": "230203",
+        "ID_MUNICIPIO": "2302",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LIBERTADOR"
+    },
+    {
+        "ID": "230204",
+        "ID_MUNICIPIO": "2302",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "MANUEL GUANIPA MATOS"
+    },
+    {
+        "ID": "230205",
+        "ID_MUNICIPIO": "2302",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "MARCELINO BRICEÑO"
+    },
+    {
+        "ID": "230206",
+        "ID_MUNICIPIO": "2302",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "PUEBLO NUEVO"
+    },
+    {
+        "ID": "230301",
+        "ID_MUNICIPIO": "2303",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "AMBROSIO"
+    },
+    {
+        "ID": "230302",
+        "ID_MUNICIPIO": "2303",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CARMEN HERRERA"
+    },
+    {
+        "ID": "230303",
+        "ID_MUNICIPIO": "2303",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "GERMAN RIOS LINARES"
+    },
+    {
+        "ID": "230304",
+        "ID_MUNICIPIO": "2303",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LA ROSA"
+    },
+    {
+        "ID": "230305",
+        "ID_MUNICIPIO": "2303",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "JORGE HERNANDEZ"
+    },
+    {
+        "ID": "230306",
+        "ID_MUNICIPIO": "2303",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "ROMULO BETANCOURT"
+    },
+    {
+        "ID": "230307",
+        "ID_MUNICIPIO": "2303",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "SAN BENITO"
+    },
+    {
+        "ID": "230308",
+        "ID_MUNICIPIO": "2303",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "ARISTIDES CALVANI"
+    },
+    {
+        "ID": "230309",
+        "ID_MUNICIPIO": "2303",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "PUNTA GORDA"
+    },
+    {
+        "ID": "230401",
+        "ID_MUNICIPIO": "2304",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ENCONTRADOS"
+    },
+    {
+        "ID": "230402",
+        "ID_MUNICIPIO": "2304",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "UDON PEREZ"
+    },
+    {
+        "ID": "230501",
+        "ID_MUNICIPIO": "2305",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN CARLOS DEL ZULIA"
+    },
+    {
+        "ID": "230502",
+        "ID_MUNICIPIO": "2305",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "MORALITO"
+    },
+    {
+        "ID": "230503",
+        "ID_MUNICIPIO": "2305",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SANTA BARBARA"
+    },
+    {
+        "ID": "230504",
+        "ID_MUNICIPIO": "2305",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SANTA CRUZ DEL ZULIA"
+    },
+    {
+        "ID": "230505",
+        "ID_MUNICIPIO": "2305",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "URRIBARRI"
+    },
+    {
+        "ID": "230601",
+        "ID_MUNICIPIO": "2306",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SIMON RODRIGUEZ"
+    },
+    {
+        "ID": "230602",
+        "ID_MUNICIPIO": "2306",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CARLOS QUEVEDO"
+    },
+    {
+        "ID": "230603",
+        "ID_MUNICIPIO": "2306",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "FRANCISCO JAVIER PULGAR"
+    },
+    {
+        "ID": "230701",
+        "ID_MUNICIPIO": "2307",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LA CONCEPCION"
+    },
+    {
+        "ID": "230702",
+        "ID_MUNICIPIO": "2307",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "JOSE RAMON YEPEZ"
+    },
+    {
+        "ID": "230703",
+        "ID_MUNICIPIO": "2307",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "MARIANO PARRA LEON"
+    },
+    {
+        "ID": "230704",
+        "ID_MUNICIPIO": "2307",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN JOSE"
+    },
+    {
+        "ID": "230801",
+        "ID_MUNICIPIO": "2308",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "JESUS MARIA SEMPRUM"
+    },
+    {
+        "ID": "230802",
+        "ID_MUNICIPIO": "2308",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BARI"
+    },
+    {
+        "ID": "230901",
+        "ID_MUNICIPIO": "2309",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CONCEPCION"
+    },
+    {
+        "ID": "230902",
+        "ID_MUNICIPIO": "2309",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANDRES BELLO"
+    },
+    {
+        "ID": "230903",
+        "ID_MUNICIPIO": "2309",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CHIQUINQUIRA"
+    },
+    {
+        "ID": "230904",
+        "ID_MUNICIPIO": "2309",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "EL CARMELO"
+    },
+    {
+        "ID": "230905",
+        "ID_MUNICIPIO": "2309",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "POTRERITOS"
+    },
+    {
+        "ID": "231001",
+        "ID_MUNICIPIO": "2310",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ALONSO DE OJEDA"
+    },
+    {
+        "ID": "231002",
+        "ID_MUNICIPIO": "2310",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LIBERTAD"
+    },
+    {
+        "ID": "231003",
+        "ID_MUNICIPIO": "2310",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CAMPO LARA"
+    },
+    {
+        "ID": "231004",
+        "ID_MUNICIPIO": "2310",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "ELEAZAR LOPEZ CONTRERAS"
+    },
+    {
+        "ID": "231005",
+        "ID_MUNICIPIO": "2310",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "VENEZUELA"
+    },
+    {
+        "ID": "231101",
+        "ID_MUNICIPIO": "2311",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LIBERTAD"
+    },
+    {
+        "ID": "231102",
+        "ID_MUNICIPIO": "2311",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BARTOLOME DE LAS CASAS"
+    },
+    {
+        "ID": "231103",
+        "ID_MUNICIPIO": "2311",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "RIO NEGRO"
+    },
+    {
+        "ID": "231104",
+        "ID_MUNICIPIO": "2311",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN JOSE DE PERIJA"
+    },
+    {
+        "ID": "231201",
+        "ID_MUNICIPIO": "2312",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN RAFAEL"
+    },
+    {
+        "ID": "231202",
+        "ID_MUNICIPIO": "2312",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "LA SIERRITA"
+    },
+    {
+        "ID": "231203",
+        "ID_MUNICIPIO": "2312",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "LAS PARCELAS"
+    },
+    {
+        "ID": "231204",
+        "ID_MUNICIPIO": "2312",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "LUIS DE VICENTE"
+    },
+    {
+        "ID": "231205",
+        "ID_MUNICIPIO": "2312",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "MONSEÑOR MARCOS SERGIO GODOY"
+    },
+    {
+        "ID": "231206",
+        "ID_MUNICIPIO": "2312",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "RICAURTE"
+    },
+    {
+        "ID": "231207",
+        "ID_MUNICIPIO": "2312",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "TAMARE"
+    },
+    {
+        "ID": "231301",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ANTONIO BORJAS ROMERO"
+    },
+    {
+        "ID": "231302",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "BOLIVAR"
+    },
+    {
+        "ID": "231303",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CACIQUE MARA"
+    },
+    {
+        "ID": "231304",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "CARACCIOLO PARRA PEREZ"
+    },
+    {
+        "ID": "231305",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "CECILIO ACOSTA"
+    },
+    {
+        "ID": "231306",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "CRISTO DE ARANZA"
+    },
+    {
+        "ID": "231307",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "COQUIVACOA"
+    },
+    {
+        "ID": "231308",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "CHIQUINQUIRA"
+    },
+    {
+        "ID": "231309",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "FRANCISCO EUGENIO BUSTAMANTE"
+    },
+    {
+        "ID": "231310",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "10",
+        "PARROQUIA": "IDELFONSO VASQUEZ"
+    },
+    {
+        "ID": "231311",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "11",
+        "PARROQUIA": "JUANA DE AVILA"
+    },
+    {
+        "ID": "231312",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "12",
+        "PARROQUIA": "LUIS HURTADO HIGUERA"
+    },
+    {
+        "ID": "231313",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "13",
+        "PARROQUIA": "MANUEL DAGNINO"
+    },
+    {
+        "ID": "231314",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "14",
+        "PARROQUIA": "OLEGARIO VILLALOBOS"
+    },
+    {
+        "ID": "231315",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "15",
+        "PARROQUIA": "RAUL LEONI"
+    },
+    {
+        "ID": "231316",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "16",
+        "PARROQUIA": "SANTA LUCIA"
+    },
+    {
+        "ID": "231317",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "17",
+        "PARROQUIA": "VENANCIO PULGAR"
+    },
+    {
+        "ID": "231318",
+        "ID_MUNICIPIO": "2313",
+        "ID_PARROQUIA": "18",
+        "PARROQUIA": "SAN ISIDRO"
+    },
+    {
+        "ID": "231401",
+        "ID_MUNICIPIO": "2314",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "ALTAGRACIA"
+    },
+    {
+        "ID": "231402",
+        "ID_MUNICIPIO": "2314",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ANA MARIA CAMPOS"
+    },
+    {
+        "ID": "231403",
+        "ID_MUNICIPIO": "2314",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "FARIA"
+    },
+    {
+        "ID": "231404",
+        "ID_MUNICIPIO": "2314",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "SAN ANTONIO"
+    },
+    {
+        "ID": "231405",
+        "ID_MUNICIPIO": "2314",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "SAN JOSE"
+    },
+    {
+        "ID": "231501",
+        "ID_MUNICIPIO": "2315",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SINAMAICA"
+    },
+    {
+        "ID": "231502",
+        "ID_MUNICIPIO": "2315",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "ALTA GUAJIRA"
+    },
+    {
+        "ID": "231503",
+        "ID_MUNICIPIO": "2315",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "ELIAS SANCHEZ RUBIO"
+    },
+    {
+        "ID": "231504",
+        "ID_MUNICIPIO": "2315",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "GUAJIRA"
+    },
+    {
+        "ID": "231601",
+        "ID_MUNICIPIO": "2316",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "EL ROSARIO"
+    },
+    {
+        "ID": "231602",
+        "ID_MUNICIPIO": "2316",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "DONALDO GARCIA"
+    },
+    {
+        "ID": "231603",
+        "ID_MUNICIPIO": "2316",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "SIXTO ZAMBRANO"
+    },
+    {
+        "ID": "231701",
+        "ID_MUNICIPIO": "2317",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SAN FRANCISCO"
+    },
+    {
+        "ID": "231702",
+        "ID_MUNICIPIO": "2317",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL BAJO"
+    },
+    {
+        "ID": "231703",
+        "ID_MUNICIPIO": "2317",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "DOMITILA FLORES"
+    },
+    {
+        "ID": "231704",
+        "ID_MUNICIPIO": "2317",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "FRANCISCO OCHOA"
+    },
+    {
+        "ID": "231705",
+        "ID_MUNICIPIO": "2317",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "LOS CORTIJOS"
+    },
+    {
+        "ID": "231706",
+        "ID_MUNICIPIO": "2317",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "MARCIAL HERNANDEZ"
+    },
+    {
+        "ID": "231801",
+        "ID_MUNICIPIO": "2318",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "SANTA RITA"
+    },
+    {
+        "ID": "231802",
+        "ID_MUNICIPIO": "2318",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL MENE"
+    },
+    {
+        "ID": "231803",
+        "ID_MUNICIPIO": "2318",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "JOSE CENOVIO URRIBARRI"
+    },
+    {
+        "ID": "231804",
+        "ID_MUNICIPIO": "2318",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "PEDRO LUCAS URRIBARRI"
+    },
+    {
+        "ID": "231901",
+        "ID_MUNICIPIO": "2319",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "MANUEL MANRIQUE"
+    },
+    {
+        "ID": "231902",
+        "ID_MUNICIPIO": "2319",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "RAFAEL MARIA BARALT"
+    },
+    {
+        "ID": "231903",
+        "ID_MUNICIPIO": "2319",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "RAFAEL URDANETA"
+    },
+    {
+        "ID": "232001",
+        "ID_MUNICIPIO": "2320",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "BOBURES"
+    },
+    {
+        "ID": "232002",
+        "ID_MUNICIPIO": "2320",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "EL BATEY"
+    },
+    {
+        "ID": "232003",
+        "ID_MUNICIPIO": "2320",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "GIBRALTAR"
+    },
+    {
+        "ID": "232004",
+        "ID_MUNICIPIO": "2320",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "HERAS"
+    },
+    {
+        "ID": "232005",
+        "ID_MUNICIPIO": "2320",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "MONSEÑOR ARTURO CELESTINO ALVAREZ"
+    },
+    {
+        "ID": "232006",
+        "ID_MUNICIPIO": "2320",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "ROMULO GALLEGOS"
+    },
+    {
+        "ID": "232101",
+        "ID_MUNICIPIO": "2321",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "LA VICTORIA"
+    },
+    {
+        "ID": "232102",
+        "ID_MUNICIPIO": "2321",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "RAFAEL URDANETA"
+    },
+    {
+        "ID": "232103",
+        "ID_MUNICIPIO": "2321",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "RAUL CUENCA"
+    },
+    {
+        "ID": "240101",
+        "ID_MUNICIPIO": "2401",
+        "ID_PARROQUIA": "1",
+        "PARROQUIA": "CARABALLEDA"
+    },
+    {
+        "ID": "240102",
+        "ID_MUNICIPIO": "2401",
+        "ID_PARROQUIA": "2",
+        "PARROQUIA": "CARAYACA"
+    },
+    {
+        "ID": "240103",
+        "ID_MUNICIPIO": "2401",
+        "ID_PARROQUIA": "3",
+        "PARROQUIA": "CARUAO"
+    },
+    {
+        "ID": "240104",
+        "ID_MUNICIPIO": "2401",
+        "ID_PARROQUIA": "4",
+        "PARROQUIA": "CATIA LA MAR"
+    },
+    {
+        "ID": "240105",
+        "ID_MUNICIPIO": "2401",
+        "ID_PARROQUIA": "5",
+        "PARROQUIA": "EL JUNKO"
+    },
+    {
+        "ID": "240106",
+        "ID_MUNICIPIO": "2401",
+        "ID_PARROQUIA": "6",
+        "PARROQUIA": "LA GUAIRA"
+    },
+    {
+        "ID": "240107",
+        "ID_MUNICIPIO": "2401",
+        "ID_PARROQUIA": "7",
+        "PARROQUIA": "MACUTO"
+    },
+    {
+        "ID": "240108",
+        "ID_MUNICIPIO": "2401",
+        "ID_PARROQUIA": "8",
+        "PARROQUIA": "MAIQUETIA"
+    },
+    {
+        "ID": "240109",
+        "ID_MUNICIPIO": "2401",
+        "ID_PARROQUIA": "9",
+        "PARROQUIA": "NAIGUATA"
+    },
+    {
+        "ID": "240110",
+        "ID_MUNICIPIO": "2401",
+        "ID_PARROQUIA": "10",
+        "PARROQUIA": "RAUL LEONI"
+    },
+    {
+        "ID": "240111",
+        "ID_MUNICIPIO": "2401",
+        "ID_PARROQUIA": "11",
+        "PARROQUIA": "CARLOS SOUBLETTE"
+    }
+]
